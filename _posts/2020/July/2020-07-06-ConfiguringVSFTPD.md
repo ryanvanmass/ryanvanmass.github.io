@@ -1,7 +1,6 @@
 ---
 title: "Configuring VSFTP"
-date: 2020-07-06T08:24:50-04:00
-draft: false
+date: 2020-07-06 08:24:50 -04:00
 categories:
     - Technology
 tags:
@@ -25,8 +24,7 @@ Fedora: `sudo dnf -y install vsftpd`
 
 2. Enable users to upload to FTP share
 
-[test]:/post/2020/images/configuringVSFTPD/writeenable.png
-![alt text][test]
+![test](/assets/2020/configuringVSFTPD/writeenable.png)
 
 3. Save and close the configuration file
 4. Restart the service
@@ -38,8 +36,7 @@ Fedora: `sudo dnf -y install vsftpd`
 __NOTE:__ This will depend on what File Manager you are using but bellow is a guideline
 1. in your File Manager locate and select add entry. It should look something like the bellow image
 
-[image]:/post/2020/images/configuringSMB/SMBConnectLinux.png
-![alt text][image]
+![image](/assets/2020/configuringSMB/SMBConnectLinux.png)
 
 2. Add something reasonable for the Label (eg the name of the ftp server)
 
@@ -57,8 +54,7 @@ __NOTE:__ This will depend on what File Manager you are using but bellow is a gu
 
 4. Follow onscreen promps untill you reach this screen
 
-[Windows]:/post/2020/images/configuringSMB/SMBConnectWindows.png
-![alt text][Windows]
+![Windows](/assets/2020/configuringSMB/SMBConnectWindows.png)
 
 5. Enter the following and select next:
 > `ftp://ip of server`

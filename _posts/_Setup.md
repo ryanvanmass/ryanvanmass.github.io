@@ -14,5 +14,13 @@ source ~/.bashrc
 
 gem install jekyll bundler
 
+gem install tzinfo "~> 1.2"
+
+gem install tzinfo-data
+
+gem install wdm -v "~> 0.1.1"
+
+bundle 
+
 jekyll serve
 ```

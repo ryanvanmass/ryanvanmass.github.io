@@ -89,10 +89,7 @@ __Restart the Connection if for some reason you are connected to the VPN and you
 
 3. copy the Clientname.ovpn file to the Client Machine
 
-4. Navigate to https://swupdate.openvpn.net/beta-downloads/connect/openvpn-connect-3.1.3.713_signed.msi and Select Windows under OpenVPN Connect
-
-[Windows]:/post/2020/images/configuringOpenVPN/openvpnwebsite.png
-![alt text][Windows]
+4. Navigate to [OpenVPN Client](https://swupdate.openvpn.net/beta-downloads/connect/openvpn-connect-3.1.3.713_signed.msi) and Select Windows under OpenVPN Connect
 
 5. Install OpenVPN Connect
 

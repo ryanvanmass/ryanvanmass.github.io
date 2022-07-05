@@ -1,7 +1,6 @@
 ---
 title: "IPad as a Second Monitor"
-date: 2020-07-18T21:58:05-04:00
-draft: false
+date: 2020-07-18 21:58:05 -04:00
 categories:
     - Technology
 tags:

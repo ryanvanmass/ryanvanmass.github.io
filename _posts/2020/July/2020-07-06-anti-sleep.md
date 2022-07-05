@@ -1,7 +1,6 @@
 ---
 title: "Anti-Sleep"
-date: 2020-07-06T11:55:15-04:00
-draft: false
+date: 2020-07-06 11:55:15 -04:00
 categories:
     - Technology
 tags:
@@ -24,4 +23,4 @@ Every 5 min it Bash Bunny presses the Windows key then 1 sec later it presses it
 4. plug bash bunny in
 
 ## Script
-[payload.txt](/post/2020/files/anti-sleep/payload.txt)
+[payload.txt](/assets/2020/anti-sleep/payload.txt)

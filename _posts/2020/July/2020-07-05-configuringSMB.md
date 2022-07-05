@@ -1,7 +1,6 @@
 ---
 title: "Configuring Samba"
-date: 2020-07-05T20:50:53-04:00
-draft: false
+date: 2020-07-05 20:50:53 -04:00
 categories:
     - Technology
 tags:
@@ -22,27 +21,24 @@ Debian based OS: `sudo apt-get install samba`
 
 #### Syntax
 
+```
 [Share Name]
+    comment = Description of Share
+    path = Path to folder
+    read only = make the network share read only
+    browseable = make the network share browseable or not
+```
 
-> comment = Description of Share
-
-> path = Path to folder
-  
-> read only = make the network share read only
- 
-> browseable = make the network share browseable or not
 
 #### Example
 
+``` 
 [Home]
-
-> comment = Home Directory
-
-> path = /home/ryanvanmass
-
-> read only = no
-
-> browseable = yes
+    comment = Home Directory
+    path = /home/ryanvanmass
+    read only = no
+    browseable = yes
+```
 
 3. Exit the file saving the changes
 4. Restart the smbd service
@@ -55,8 +51,7 @@ Debian based OS: `sudo apt-get install samba`
 __NOTE:__ This will depend on what File Manager you are using but bellow is a guideline
 1. in your File Manager locate and select add entry. It should look something like the bellow image
 
-[image]:/post/2020/images/configuringSMB/SMBConnectLinux.png
-![alt text][image]
+![image](/assets/2020/configuringSMB/SMBConnectLinux.png)
 
 2. Add something reasonable for the Label (eg the name of the share)
 
@@ -72,8 +67,7 @@ __NOTE:__ This will depend on what File Manager you are using but bellow is a gu
 
 4. Follow onscreen promps untill you reach this screen
 
-[Windows]:/post/2020/images/configuringSMB/SMBConnectWindows.png
-![alt text][Windows]
+![Windows](/assets/2020/configuringSMB/SMBConnectWindows.png)
 
 5. Enter the following:
 > `\\server ip\share name`
