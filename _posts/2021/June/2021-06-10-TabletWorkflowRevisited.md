@@ -4,7 +4,6 @@ date: 2021-06-10 20:28:23 -04:00
 draft: false
 categories:
     - Brain Dump
-    - Technology
 tags:
     - IOS
 ---
