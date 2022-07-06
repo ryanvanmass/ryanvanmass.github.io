@@ -1,11 +1,8 @@
 ---
 title: "Finding Motivation"
-date: 2021-02-11T11:22:18-05:00
-draft: false
+date: 2021-02-11 11:22:18 -05:00
 categories:
     - Brain Dump
-tags:
-    - 2021
 ---
 
 ## Intro

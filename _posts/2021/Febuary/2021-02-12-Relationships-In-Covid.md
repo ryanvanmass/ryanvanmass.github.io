@@ -1,11 +1,8 @@
 ---
 title: "Relationships in Covid"
-date: 2021-02-12T08:42:40-05:00
-draft: true
+date: 2021-02-12 08:42:40 -05:00
 categories:
     - Brain Dump
-tags:
-    - 2021
 ---
 
 ## Background on my story

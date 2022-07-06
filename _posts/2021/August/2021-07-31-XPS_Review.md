@@ -1,7 +1,6 @@
 ---
 title: "Dell XPS Review"
-date: 2021-07-31T16:10:57-04:00
-draft: false
+date: 2021-07-31 16:10:57 -04:00
 categories:
     - Technology
     - Brain Dump

@@ -1,7 +1,6 @@
 ---
 title: "Ubuntu for Beginners"
-date: 2021-03-31T09:41:44-04:00
-draft: false
+date: 2021-03-31 09:41:44 -04:00
 categories:
     - Technology
 tags:
@@ -20,18 +19,15 @@ The Easiest way for beginers to update both the computer itself and the programs
 
 3. Select Ubuntu Software from the Options
 
-[Update1]:/post/2021/April/Ubuntu_for_Biginners/UbuntuSoftware.png
-![UbuntuSoftware][Update1]
+![Update1](/assets/2021/Ubuntu_for_Biginners/UbuntuSoftware.png)
 
 4. Select Updates
 
-[Update2]:/post/2021/April/Ubuntu_for_Biginners/Updates.png
-![UbuntuSoftware][Update2]
+![Update2](/assets/2021/Ubuntu_for_Biginners/Updates.png)
 
 5. Select Update all
 
-[Update3]:/post/2021/April/Ubuntu_for_Biginners/Update2.png
-![UbuntuSoftware][Update3]
+![Update3](/assets/2021/Ubuntu_for_Biginners/Update2.png)
 
 ## Installing Programs
 The Easiest Way for beginers to Install Programs is also from the Ubuntu Software Center. This can be done by:
@@ -41,20 +37,16 @@ The Easiest Way for beginers to Install Programs is also from the Ubuntu Softwar
 
 3. Select Ubuntu Software from the Options
 
-[Install1]:/post/2021/April/Ubuntu_for_Biginners/UbuntuSoftware.png
-![UbuntuSoftware][Install1]
+![Install1](/assets/2021/Ubuntu_for_Biginners/UbuntuSoftware.png)
 
 4. Select Search
 
-[Install2]:/post/2021/April/Ubuntu_for_Biginners/Search.png
-![UbuntuSoftware][Install2]
+![Install2](/assets/2021/Ubuntu_for_Biginners/Search.png)
 
 5. Search for the Program you want to install and select it 
 
-[Install3]:/post/2021/April/Ubuntu_for_Biginners/Search2.png
-![UbuntuSoftware][Install3]
+![Install3](/assets/2021/Ubuntu_for_Biginners/Search2.png)
 
 6. Select Install
 
-[Install4]:/post/2021/April/Ubuntu_for_Biginners/Install.png
-![UbuntuSoftware][Install4]
+![Install4](/assets/2021/Ubuntu_for_Biginners/Install.png)

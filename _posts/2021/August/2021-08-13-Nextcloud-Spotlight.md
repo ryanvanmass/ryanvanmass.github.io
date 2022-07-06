@@ -1,7 +1,6 @@
 ---
 title: "Nextcloud Spotlight"
-date: 2021-08-13T21:02:10-04:00
-draft: true
+date: 2021-08-13 21:02:10 -04:00
 categories:
     - Technology
 tags:
@@ -16,7 +15,7 @@ Nextcloud is selfhosted cloud platform that gives almost feature parity to platf
 
 ## Installation
 Nextcloud can be easily installed via the following ansible playbook
-```
+```bash
     apt install ansible
     ansible-pull -U https://github.com/ryanvanmass/Nextcloud_Ansible Deploy.yml
 ```

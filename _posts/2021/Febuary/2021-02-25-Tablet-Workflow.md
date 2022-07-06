@@ -1,7 +1,6 @@
 ---
 title: "Transitioning to a Tablet Workflow"
-date: 2021-02-25T10:34:16-05:00
-draft: false
+date: 2021-02-25 10:34:16 -05:00
 categories:
     - Technology
     - Brain Dump
