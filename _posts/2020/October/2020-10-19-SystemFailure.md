@@ -1,7 +1,6 @@
 ---
 title: "System Failure"
-date: 2020-10-19T11:44:04-04:00
-draft: false
+date: 2020-10-19 11:44:04 -04:00
 categories:
     - Technology
 tags:

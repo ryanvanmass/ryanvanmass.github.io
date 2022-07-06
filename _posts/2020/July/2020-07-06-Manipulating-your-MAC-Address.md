@@ -1,6 +1,6 @@
 ---
 title: "Manipulating Your MAC Address"
-date: 2020-07-06T13:30:05-04:00
+date: 2020-07-06 13:30:05 -04:00
 draft: false
 categories:
     - Technology
@@ -19,25 +19,22 @@ Bellow I have included a few useful screenshots of where to find the requeired i
 
 __Interface Name__
 
-[example1]:/post/2020/images/ManipulatingYourMACAddress/InterfaceName.png
-![alt text][example1]
+![example1](/assets/2020/ManipulatingYourMACAddress/InterfaceName.png)
 
 __IP Address__
 
-[example2]:/post/2020/images/ManipulatingYourMACAddress/IPAddress.png
-![alt text][example2]
+![example2](/assets/2020/ManipulatingYourMACAddress/IPAddress.png)
 
 __MAC Address__
 
-[example3]:/post/2020/images/ManipulatingYourMACAddress/MACAddress.png
-![alt text][example3]
+![example3](/assets/2020/ManipulatingYourMACAddress/MACAddress.png)
 
 
 ## How to get Longer then the "15 Minutes of free wifi on the plane"
 This wont fix how slow the wifi is but this will allow you to get around the "15 min of free wifi" that some airlines inforce. This is achieved by essentially changing your address so that the DHCP server who controls who can connect or not doesnt know who you are.
 
 
-Script: [Random-MAC-Script](/post/2020/files/ManipulatingYourMACAddress/randomizemac.sh)
+Script: [Random-MAC-Script](/assets/2020/ManipulatingYourMACAddress/randomizemac.sh)
 
 Bellow are the steps for how to use the script:
 
@@ -52,7 +49,7 @@ Bellow are the steps for how to use the script:
 ## How to Avoid the Hotel Log in portal
 For this exploit to work you will need to log into the Wifi through the log in portal on atleast one device so that you can use that devices MAC address to connect to the network. Once you have done this follow the steps bellow
 
-Script: [Hotel-Wifi-Script](/post/2020/files/ManipulatingYourMACAddress/hotelwifi.sh)
+Script: [Hotel-Wifi-Script](/assets/2020/ManipulatingYourMACAddress/hotelwifi.sh)
 
 1. Download Script
 

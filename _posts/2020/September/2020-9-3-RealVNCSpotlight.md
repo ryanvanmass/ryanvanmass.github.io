@@ -1,7 +1,6 @@
 ---
 title: "RealVNC for the Family IT Guy"
-date: 2020-09-03T09:55:31-04:00
-draft: false
+date: 2020-09-03 09:55:31 -04:00
 categories:
     - Technology
 tags:

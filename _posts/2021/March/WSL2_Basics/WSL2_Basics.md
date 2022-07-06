@@ -1,0 +1,69 @@
+---
+title: "WSL2 Basics"
+date: 2021-03-23T21:10:15-04:00
+draft: false
+categories:
+    - Technology
+tags:
+    - Windows
+    - Linux
+    - WSL2
+    - Docker
+---
+
+## Introduction
+This Post will go over some of my basic findings about WSL2 as I have noticed that documentation appears to be sparse.
+
+## How to install and configure WSL2
+1. Open Control Panel
+2. Select Programs
+3. Select Turn Windows Features on or off
+4. Select Windows Subsystem for Linux
+5. Select OK
+6. Open Windows Store
+7. Search for your chosen Distro of choice
+8. Install said chosen Distro
+9. Launch the app you just installed
+10. Follow onscreen prompts
+
+## General Inquiries 
+### Will restarting WSL2 restart the Host?
+It appears that the `restart` or `shutdown` commands do not function in a WSL2 environment
+
+### Do GUI apps run on WSL2 actually work?
+The short answer is yes but you appear to need to install an entire DE (Desktop Enviroment) and access it through either VNC or RDP depending on the Distro. At the time of writing this about the easiest WSL2 image to get a working DE on is Kali you can a guide at [kali.org](https://www.kali.org/docs/wsl/win-kex/#run-win-kex).
+
+**Disclaimer:** I could not get this working. I suspect it has something to do with me testing this in a VM.
+
+### How does the Init System Work
+By Default WSL does not "Boot" until the first command is run. Furthermore WSL uses Initd as its init system, which means that you may be missing some functionality that you are used to with the systemd init system 
+
+
+### How does WSL2 interact with the firewall
+You will receive a Windows Security alert to allow the software to make changes to the firewall
+
+## How to Schedule Tasks using WSL2
+While by default there is no way to schedule a task in a WSL2 instance I have found the bellow work around
+
+1. Add the following line to `visudo` in the WSL instance
+```
+    %sudo   ALL=(ALL) NOPASSWD: /sbin/service cron start
+```
+This allows you to run `sudo service cron start` without being prompt for a password
+
+2. In Task Scheduler create a new task to run at boot that runs the following command
+```
+    wsl sudo service cron start
+```
+This will run the `sudo service cron start` command within your WSL instance (This will also start the instance)
+
+3. Use cron as you normally would
+
+## Mounting Drives
+To manually mount any drive connected to your Windows subsystem in WSL run the bellow command (replacing the drive letters with the one for the drive you want to boot):
+```
+    sudo mount -t drvfs D: /mnt/d
+```
+## Install Docker on WSL2
+Follow the bellow guide on how to install Docker on WSL containers:
+https://code.visualstudio.com/blogs/2020/03/02/docker-in-wsl2
