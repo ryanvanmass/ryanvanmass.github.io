@@ -1,7 +1,6 @@
 ---
 title: "Hosting Your Own Website for Free"
-date: 2021-06-14T21:14:47-04:00
-draft: false
+date: 2021-06-14 21:14:47 -04:00
 categories:
     - Technology
 tags:
@@ -19,11 +18,11 @@ tags:
 1. Navigate to https://github.com and login
 2. Select New
 
-![1](/post/2021/June/HostingYourOwnWebsiteforFree/Assets/Github/1.png)
+![1](/assets/2021/HostingYourOwnWebsiteforFree/Github/1.png)
 
 3. Name the Repo, Set it to Private, and select Create Repository
 
-![2](/post/2021/June/HostingYourOwnWebsiteforFree/Assets/Github/2.png)
+![2](/assets/2021/HostingYourOwnWebsiteforFree/Github/2.png)
 
 ### Making your First Commit
 1. On your Linux Machine create a directory to store the website in
@@ -130,11 +129,11 @@ __Note:__ Make sure the command ends in `.md` otherwise the command will run but
 
 2. Select Apps
 
-![3](/post/2021/June/HostingYourOwnWebsiteforFree/Assets/DigitalOcean/1.png)
+![3](/assets/2021/HostingYourOwnWebsiteforFree/DigitalOcean/1.png)
 
 3. Select Create App
 
-![4](/post/2021/June/HostingYourOwnWebsiteforFree/Assets/DigitalOcean/2.png)
+![4](/assets/2021/HostingYourOwnWebsiteforFree/DigitalOcean/2.png)
 
 4. Follow the onscreen prompts
 
@@ -146,7 +145,7 @@ __Note:__ This will very depending on your Domain provider
 
 2. Select Apps
 
-![5](/post/2021/June/HostingYourOwnWebsiteforFree/Assets/DigitalOcean/1.png)
+![5](/assets/2021/HostingYourOwnWebsiteforFree/DigitalOcean/1.png)
 
 3. Select the App for your website
 
@@ -156,15 +155,15 @@ __Note:__ This will very depending on your Domain provider
 
 6. Select Settings
 
-![6](/post/2021/June/HostingYourOwnWebsiteforFree/Assets/DigitalOcean/3.png)
+![6](/assets/2021/HostingYourOwnWebsiteforFree/DigitalOcean/3.png)
 
 7. Select Edit for Domains
 
-![7](/post/2021/June/HostingYourOwnWebsiteforFree/Assets/DigitalOcean/4.png)
+![7](/assets/2021/HostingYourOwnWebsiteforFree/DigitalOcean/4.png)
 
 8. Select Add Domain 
 
-![8](/post/2021/June/HostingYourOwnWebsiteforFree/Assets/DigitalOcean/5.png)
+![8](/assets/2021/HostingYourOwnWebsiteforFree/DigitalOcean/5.png)
 
 9. Follow the Onscreen directions
 

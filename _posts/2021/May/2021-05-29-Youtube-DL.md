@@ -1,7 +1,6 @@
 ---
 title: "Youtube DL"
-date: 2021-05-29T19:13:04-04:00
-draft: false
+date: 2021-05-29 19:13:04 -04:00
 categories:
     - Technology
 tags:
@@ -17,7 +16,7 @@ Whether it is for a research report or for a creative outlet sometimes having a 
 ## Installation and use
 ### Installation
 __Ubuntu__
-```
+```bash
     sudo apt install python3
     sudo apt install python3-pip
     sudo apt install ffmpeg
@@ -26,7 +25,7 @@ __Ubuntu__
 ```
 
 __Fedora__
-```
+```bash
     sudo dnf install python3
     sudo dnf install python3-pip
     sudo dnf install ffmpeg
@@ -35,11 +34,12 @@ __Fedora__
 
 ### Use
 While you can simply run a `youtube-dl <URL>` I would reccomend running something more along the lines of the bellow command as it will download the highest quality version of both the video and the audio indivdually then transcode them into one file
-```
+```bash
     youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4 -o '/home/$USER/Downloads/%(title)s.%(ext)s' <URL>
 ```
 
 __Syntax Breakdown__
+
 |                             Syntax                             |                                           Explanation                                          |
 |:--------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
 | youtube-dl                                                     | Root Command                                                                                   |

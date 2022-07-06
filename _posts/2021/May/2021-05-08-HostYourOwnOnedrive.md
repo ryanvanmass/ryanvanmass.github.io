@@ -1,7 +1,6 @@
 ---
 title: "Host Your Own OneDrive"
-date: 2021-05-08T10:43:54-04:00
-draft: false
+date: 2021-05-08 10:43:54 -04:00
 categories:
     - Technology
 tags:
@@ -15,22 +14,22 @@ Have you ever wanted the connivance of OneDrive but without the need to trust so
 ## Prerequisites 
 ### Docker
 1. Download the Docker install script
-```
+```bash
     curl -fsSL https://get.docker.com -o get-docker.sh
 ```
 
 2. Run the Docker install script
-```
+```bash
     sh get-docker.sh
 ```
 
 3. Enable the Docker Service to run at startup
-```
+```bash
     systemctl enable --now docker
 ```
 
 4. Add your User to the Docker group
-```
+```bash
     usermod -aG docker $USER
 ```
 
@@ -39,12 +38,12 @@ Have you ever wanted the connivance of OneDrive but without the need to trust so
 
 ## Install 
 1. To Install NextCloud we will first need to get the latest NextCloud Docker image. This can be done by running the bellow command
-```
+```bash
     docker pull nextcloud:latest
 ```
 
 2. Next we need to create our Docker container with a couple arguments
-```
+```bash
     docker run -d -p 8080:80 --name NextCloud nextcloud:latest
 ```
 __Command Breakdown__
@@ -60,8 +59,7 @@ __Command Breakdown__
 
 4. You should be greeted with a page similar to the one bellow if not refresh the page it may take a couple minutes to load
 
-[Image1]:/post/2021/May/HostYourOwnOnedrive/AdminCreate.png
-![AdminCreation][Image1]
+![Image1](/assets/2021/HostYourOwnOnedrive/AdminCreate.png)
 
 5. Enter your desired Username and Password and Select Finish Setup
 
@@ -73,13 +71,11 @@ __Installing Programs__
 Programs are installed via Apps. 
 1. You can access apps by selecting the user icon in the top right of the screen
 
-[Image2]:/post/2021/May/HostYourOwnOnedrive/UserIcon.png
-![UserIcon][Image2]
+![Image2](/assets/2021/HostYourOwnOnedrive/UserIcon.png)
 
 2. Select Apps
 
-[Image3]:/post/2021/May/HostYourOwnOnedrive/Dropdown.png
-![Dropdown][Image3]
+![Image3](/assets/2021/HostYourOwnOnedrive/Dropdown.png)
 
 3. Locate an App you want to "Install" and select Enable 
 
@@ -88,13 +84,11 @@ __Uninstalling Programs__
 Very similar to how we Install Programs you can also Uninstall them
 1. You can access apps by selecting the user icon in the top right of the screen
 
-[Image2]:/post/2021/May/HostYourOwnOnedrive/UserIcon.png
-![UserIcon][Image2]
+![Image2](/assets/2021/HostYourOwnOnedrive/UserIcon.png)
 
 2. Select Apps
 
-[Image3]:/post/2021/May/HostYourOwnOnedrive/Dropdown.png
-![Dropdown][Image3]
+![Image3](/assets/2021/HostYourOwnOnedrive/Dropdown.png)
 
 3. Locate an App you want to "Uninstall" and select Disable
 
@@ -103,51 +97,43 @@ __Adding Users__
 
 1. To add a new User select your user icon in the top right of the screen
 
-[Image4]:/post/2021/May/HostYourOwnOnedrive/UserIcon.png
-![UserIcon][Image4]
+![Image4](/assets/2021/HostYourOwnOnedrive/UserIcon.png)
 
 2. Select Users
 
-[Image5]:/post/2021/May/HostYourOwnOnedrive/Dropdown2.png
-![Dropdown2][Image5]
+![Image5](/assets/2021/HostYourOwnOnedrive/Dropdown2.png)
 
 3. Select New User
 
-[Image6]:/post/2021/May/HostYourOwnOnedrive/NewUserButton.png
-![NewUserButton][Image6]
+![Image6](/assets/2021/HostYourOwnOnedrive/NewUserButton.png)
 
 4. Fill in the Provided Fields and select the Check Mark
 
-[Image7]:/post/2021/May/HostYourOwnOnedrive/NewUserForm.png
-![NewUserForm][Image7]
+![Image7](/assets/2021/HostYourOwnOnedrive/NewUserForm.png)
 
 __Removing User__
 
 1. To remove a User select your user icon in the top right of the screen
 
-[Image4]:/post/2021/May/HostYourOwnOnedrive/UserIcon.png
-![UserIcon][Image4]
+![Image4](/assets/2021/HostYourOwnOnedrive/UserIcon.png)
 
 2. Select Users
 
-[Image5]:/post/2021/May/HostYourOwnOnedrive/Dropdown2.png
-![Dropdown2][Image5]
+![Image5](/assets/2021/HostYourOwnOnedrive/Dropdown2.png)
 
 3. Select the `...` 
 
-[Image8]:/post/2021/May/HostYourOwnOnedrive/userdotdotdot.png
-![Dropdown2][Image8]
+![Image8](/assets/2021/HostYourOwnOnedrive/userdotdotdot.png)
 
 4. Select Delete User
 
 **Note**: You can also disable a user instead of deleting it from this menu 
 
-[Image9]:/post/2021/May/HostYourOwnOnedrive/UserDropdown.png
-![UserDropdown][Image9]
+![Image9](/assets/2021/HostYourOwnOnedrive/UserDropdown.png)
 
 ### Trusted Domain Management
 To add another trusted domain that you can connect to the Nextcloud site from run the following command
-```
+```bash
     docker exec --user www-data NextCloud php occ config:system:set trusted_domains 1 <IP:Port>
 ```
 

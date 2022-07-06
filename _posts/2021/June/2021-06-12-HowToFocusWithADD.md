@@ -1,18 +1,15 @@
 ---
-title: "How To Focus With ADD"
-date: 2021-06-12T19:30:23-04:00
-draft: false
+title: "How To Focus With ADHD"
+date: 2021-06-12 19:30:23 -04:00
 categories:
     - Brain Dump
-tags:
-    -
 ---
 
 ## Disclamer
 This post is by no means a definitive guide or medical advise. This is simply what I have found works for me.
 
-## What is ADD
-ADD or Attention Defaced disorder is a medical condition that causes you to find it difficult if not impossible to focus on one task at a time or to stay focused for long periods of time.
+## What is ADHD
+ADHD or Attention Defaced disorder is a medical condition that causes you to find it difficult if not impossible to focus on one task at a time or to stay focused for long periods of time.
 
 ## So How do you Focus?
 ### Planning your Day
@@ -37,4 +34,4 @@ As I just eluded to I spent a good portion of my day with something playing. Thi
 while my level of focus varys from day to day I do find I am most focused first thing in the morning and then again in early evening. Knowing this allows me to plan my day around that. For example I will always do my most pressing/urgent work related tasks first thing in the morning and in the early evening I often work on a passion project such as writing posts for this website or editing pictures I have taken.
 
 ## The Most Important thing to Remember
-The most important thing to remember about trying to focus when you have ADD is to not get discouraged or mad at yourself for not being able to focus. Instead just know that tomorrow is a new day and that you can always get caught up on whatever it is you need to do.
+The most important thing to remember about trying to focus when you have ADHD is to not get discouraged or mad at yourself for not being able to focus. Instead just know that tomorrow is a new day and that you can always get caught up on whatever it is you need to do.

@@ -1,6 +1,6 @@
 ---
 title: "Staying Connected"
-date: 2021-06-04T14:58:32-04:00
+date: 2021-06-04 14:58:32 -04:00
 draft: false
 categories:
     - Brain Dump
@@ -22,15 +22,15 @@ If you are anything like me you hate being stuck behind your desk but you still 
 
 __Syncthing__
 
-> Synthing is a file syncing app so that you always have an identical copy of a file in multiple locations such as your server and main laptop or your desktop and laptop
+Synthing is a file syncing app so that you always have an identical copy of a file in multiple locations such as your server and main laptop or your desktop and laptop
 
 __Serveditor__
 
-> Serveditor is an IPad optimized client for Code-Server, which is an web app based IDE.
+Serveditor is an IPad optimized client for Code-Server, which is an web app based IDE.
 
 __Firefox or Chrome__
 
-> If you are like me you use Windows instead of OSX being able to send tabs between devices is awesome for looking up something quicking while your out and continue reading about it on your computer when you get home, or having all your bookmarks on all your devices is amazing.
+If you are like me you use Windows instead of OSX being able to send tabs between devices is awesome for looking up something quicking while your out and continue reading about it on your computer when you get home, or having all your bookmarks on all your devices is amazing.
 
 ## Being too connected
 While being conected can be great it is very important to know when to disconnect so that you aren't working 24/7. Personally while it is rare that I leave the house for any extended period of time without my IPad which is connected to all my work as well as personal accounts, it is rare that I use it for anything more then watching a youtube video when I am taking a break from driving or sitting in a parking lot eating because when I am not home and not working that is my time to disconnect generally. Now there are exceptions to that sometimes I decied to work while out and about but those are far and few between.

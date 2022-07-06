@@ -1,6 +1,6 @@
 ---
 title: "Tablet Workflow 3 Months later"
-date: 2021-06-10T20:28:23-04:00
+date: 2021-06-10 20:28:23 -04:00
 draft: false
 categories:
     - Brain Dump
@@ -10,7 +10,7 @@ tags:
 ---
 
 ## Background
-Back in Febuary of this year I decided to give using a IPad as a main productivity machine instead of a laptop a try. If you haven't read the original post about this you can find it [here](https://www.ryanvanmassenhoven.com/post/2021/febuary/tablet-workflow/tablet-workflow/). This post will be a follow up with some of my findings and experiances from the last 3 and a half months of using the IPad
+Back in Febuary of this year I decided to give using a IPad as a main productivity machine instead of a laptop a try. If you haven't read the original post about this you can find it [here](https://www.ryanvanmassenhoven.com/posts/tablet-workflow/). This post will be a follow up with some of my findings and experiances from the last 3 and a half months of using the IPad
 
 ## The Good 
 ### Planning out your Day
