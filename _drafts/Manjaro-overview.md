@@ -22,7 +22,7 @@ The Install is as easy as Ubuntu and arguably easier then any RHEL distribution.
 ## Day to Day Usage
 
 ### The first week
-Honestly it was just nice being back on Linux again while I do enjoy using Windows as well there is something about the customizability of Linux that has always had me. This is likely in part to the ease of configuring it to meet my workflow whether it is development of IT support or writing for this very website
+Honestly it was just nice being back on Linux again while I do enjoy using Windows as well there is something about the customizability of Linux that has always had me. This is likely in part to the ease of configuring it to meet my workflow whether it is development of IT support or writing for this very website. So far all the tools i use personally i have been able to continue to use on Manjaro although that may be in part due to me transitioning to more web based tools and away from proprietary software. 
 
 ## Safe guards
 At least when installed on Btrfs Manjaro is natively configured to take a snapshot prior to all system updates. These snapshots are 
