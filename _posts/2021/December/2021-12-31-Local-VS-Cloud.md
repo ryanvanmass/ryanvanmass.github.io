@@ -3,6 +3,7 @@ title: "Local vs Cloud Hosting"
 date: 2021-12-31 18:42:56 -04:00
 categories:
     - Technology
+    - Self Hosted
 ---
 
 ## What is Local Hosting?

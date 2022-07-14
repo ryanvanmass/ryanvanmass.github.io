@@ -3,6 +3,7 @@ title: "Nextcloud Spotlight"
 date: 2021-08-13 21:02:10 -04:00
 categories:
     - Technology
+    - Self Hosted
 tags:
     - Spotlight
     - Linux
@@ -11,7 +12,7 @@ tags:
 ---
 
 ## Overview
-Nextcloud is selfhosted cloud platform that gives almost feature parity to platforms such as Google's Workspace platform.
+Nextcloud is self hosted cloud platform that gives almost feature parity to platforms such as Google's Workspace platform.
 
 ## Installation
 Nextcloud can be easily installed via the following ansible playbook

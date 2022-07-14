@@ -3,6 +3,7 @@ title: "Youtube DL"
 date: 2021-05-29 19:13:04 -04:00
 categories:
     - Technology
+    - Self Hosted
 tags:
     - Linux
 ---

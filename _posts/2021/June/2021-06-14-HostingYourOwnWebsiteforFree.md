@@ -3,6 +3,7 @@ title: "Hosting Your Own Website for Free"
 date: 2021-06-14 21:14:47 -04:00
 categories:
     - Technology
+    - Self Hosted
 tags:
     - Linux
     - How-To

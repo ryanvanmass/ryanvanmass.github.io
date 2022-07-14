@@ -4,6 +4,7 @@ date: 2021-01-28 08:32:12 -05:00
 draft: false
 categories:
     - Technology
+    - Storage
 tags:
     - Linux
     - How-To

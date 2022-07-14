@@ -3,6 +3,7 @@ title: "Ubuntu for Beginners"
 date: 2021-03-31 09:41:44 -04:00
 categories:
     - Technology
+    - Linux Desktop
 tags:
     - Linux
     - How-Tos
