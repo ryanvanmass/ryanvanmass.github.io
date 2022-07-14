@@ -1,6 +1,9 @@
-
-
-
+---
+title: "Working without a PC"
+date: 2022-07-13 09:41:44 -04:00
+categories: [Technology]
+tags: ["IOS","Overview"]
+---
 
 ## System Administration
 Last time I researched this topic i was already pretty satisfied with the result but this time a couple of new apps stood out to me:

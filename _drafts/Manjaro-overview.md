@@ -21,8 +21,11 @@ The Install is as easy as Ubuntu and arguably easier then any RHEL distribution.
 
 ### Day to Day Usage
 
-#### The first week
+#### The First few days
 Honestly it was just nice being back on Linux again while I do enjoy using Windows as well there is something about the customizability of Linux that has always had me. This is likely in part to the ease of configuring it to meet my workflow whether it is development of IT support or writing for this very website. So far all the tools i use personally i have been able to continue to use on Manjaro although that may be in part due to me transitioning to more web based tools and away from proprietary software. 
+
+#### The First Week
+I find myself reaching for my laptop more and more as I continue to work through a few ongoing development projects although i did run into my first issue so far and thats that i could not get my laptop to connect to my scanner although as I am writing this I just checked again and now it is connected and ready to scan. In Manjaro's defense i didn't spend long to trying to get it to work as i was in the middle of something i needed to finish in a timely manner. 
 
 ### Safe guards
 At least when installed on Btrfs Manjaro is natively configured to take a snapshot prior to all system updates. These snapshots are 

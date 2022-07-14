@@ -1,5 +1,5 @@
 ---
-title: "Manjaro, What is it and Why Use it?"
+title: "Ubuntu 22.04 Review"
 date: 2022-07-07 09:41:44 -04:00
 categories: [Technology]
 tags: ["Linux","Ubuntu","Review"]
