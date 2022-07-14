@@ -4,6 +4,7 @@ date: 2020-08-19 12:00:34 -04:00
 draft: false
 categories:
     - Technology
+    - Linux Desktop
 tags:
     - Spotlight
     - Linux

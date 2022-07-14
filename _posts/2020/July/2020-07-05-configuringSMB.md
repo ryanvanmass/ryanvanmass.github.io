@@ -3,6 +3,7 @@ title: "Configuring Samba"
 date: 2020-07-05 20:50:53 -04:00
 categories:
     - Technology
+    - Storage
 tags:
     - Linux
     - How-Tos

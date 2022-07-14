@@ -3,6 +3,7 @@ title: "PopOS for Beginners"
 date: 2020-08-17 12:00:04 -04:00
 categories:
     - Technology
+    - Linux Desktop
 tags:
     - Linux
     - How-Tos

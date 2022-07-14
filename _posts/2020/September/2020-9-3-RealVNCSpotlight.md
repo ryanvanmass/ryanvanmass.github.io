@@ -3,6 +3,7 @@ title: "RealVNC for the Family IT Guy"
 date: 2020-09-03 09:55:31 -04:00
 categories:
     - Technology
+    - Remote Desktop
 tags:
     - Spotlight
     - Linux

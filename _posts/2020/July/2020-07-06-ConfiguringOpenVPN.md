@@ -4,8 +4,10 @@ date: 2020-07-06T08:28:20-04:00
 draft: false
 categories:
     - Technology
+    - Networking
 tags:
     - Linux
+    - VPN
     - How-Tos
 ---
 ## Introduction

@@ -3,8 +3,8 @@ title: "Anti-Sleep"
 date: 2020-07-06 11:55:15 -04:00
 categories:
     - Technology
+    - Pentesting
 tags:
-    - PenTesting
     - SysAdmin Tools
 ---
 ## Introduction
