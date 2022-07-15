@@ -3,8 +3,10 @@ title: "Winget Overview"
 date: 2022-05-03 18:42:56 -04:00
 categories:
     - Technology
+    - Windows Desktop
 tags:
     - Windows
+    - Package Manager
 ---
 ## What is it?
 winget is a powershell based package manager for Windows 10 and 11

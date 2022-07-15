@@ -3,6 +3,7 @@ title: "Linode Overview"
 date: 2022-05-17 18:42:56 -04:00
 categories:
     - Technology
+    - Self Hosted
 tags:
     - VPS
     - Linux
