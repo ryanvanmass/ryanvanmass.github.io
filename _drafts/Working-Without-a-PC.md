@@ -17,13 +17,13 @@ Termius is essentially a modern terminal emulator with all the nice modern featu
 * Known Host Management
 
 ### Tailscale
-I have recently revisited Tailscale after exploring other VPN solutions such as self hosted IPSec and OpenVPN systems and i must say that its simplicity and battery efficiency on your client devices is refreshing. If you want to learn more about tailscale you can read my artical here.
+I have recently revisited Tailscale after exploring other VPN solutions such as self hosted IPSec and OpenVPN systems and i must say that its simplicity and battery efficiency on your client devices is refreshing. If you want to learn more about tailscale you can read my artical [here](https://www.ryanvanmassenhoven.com/posts/Tailscale/) .
 
 ### Textastic
 Textastic is a simple but full featured text editor with built in file browsing that gets the job done. Combine it with a Git client such as working copy and you have a powerful duo.
 
 ### Remote Desktop
-This is one area that I am still rather disappointed in IPadOS but this is more of a disappointment with the remote desktop app’s. In my opinion If you offer a remote desktop app on the IPad you should have proper mouse support where if you have a trackpad or mouse connected to your IPad it will just use the remote devices mouse instead of the IPad ”mouse”. The only app that i have seen implement this Microsofts RDP Client.
+This is one area that I am still rather disappointed in IPadOS but this is morely a disappointment with the remote desktop app’s. In my opinion If you offer a remote desktop app on the IPad you should have proper mouse support where if you have a trackpad or mouse connected to your IPad it will just use the remote devices mouse instead of the IPad ”mouse”. The only app that i have seen implement this Microsofts RDP Client.
 
 ## File Management
 Last time I attempted to use my IPad as my as key part of my daily workflow the Files app fell flat on my face for a few key reasons:
