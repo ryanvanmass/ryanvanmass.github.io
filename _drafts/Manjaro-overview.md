@@ -27,5 +27,5 @@ Honestly it was just nice being back on Linux again while I do enjoy using Windo
 #### The First Week
 I find myself reaching for my laptop more and more as I continue to work through a few ongoing development projects although i did run into my first issue so far and thats that i could not get my laptop to connect to my scanner although as I am writing this I just checked again and now it is connected and ready to scan. In Manjaro's defense i didn't spend long to trying to get it to work as i was in the middle of something i needed to finish in a timely manner. 
 
-### Safe guards
-At least when installed on Btrfs Manjaro is natively configured to take a snapshot prior to all system updates. These snapshots are 
+## Conclusion
+Unfortunately my testing was cut short due to needing to prepare for my honeymoon and needing a rock solid PC with the ability to download Content from services such as Amazon prime or Netflix. I do plan on revisiting this at a later date as Manjaro does seem very promising as a Linux distribution that may actually be usable on the desktop.
