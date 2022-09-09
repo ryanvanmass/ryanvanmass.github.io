@@ -17,11 +17,11 @@ The reason I choose Jekyll over going back to Hugo is simply do to falling in lo
 
 ## Setting up Jekyll
 **Note:** These Steps will be specific to setting up the theme and deployment method I use
-### Video Guide
+### Guide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F8iOU1ci19Q?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Written Guide
+### Steps
 #### Linux
 __Install Ruby__
 
