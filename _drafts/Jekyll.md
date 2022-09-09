@@ -4,7 +4,7 @@ date: 2022-07-22 09:41:44 -04:00
 categories: [Technology, "Self Hosted"]
 tags: ["Linux","Ruby", "Static Site"]
 ---
-Jekyll is a static site generator that allows you to have eligent, easy to maintain, and modern websites without the headaches of supporting and maintaining a wordepress server
+Jekyll is a static site generator that allows you to have eligent, easy to maintain, and modern websites without the headaches of supporting and maintaining a Wordepress server
 
 ## Why do I care?
 This site actually started out as a Static Site generated via Hugo on Netify then Digital Oceans App platform before I migrated to Wordpress. During my time on wordpress I missed a few key advantages of a static site. Bellow are the big ones:
