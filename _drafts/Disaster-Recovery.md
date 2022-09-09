@@ -22,3 +22,6 @@ Luckily I do have a single backup from before I did the last upgrade. so it is a
 
 ## So What Next?
 So at this point I have determined that the best course of action is to restore the backup due to not having a copy of the credentials required to allow the two services to communicate together.
+
+## Well how did it turn out?
+So some time has past and unfortuntly in this particular case due to likely the backup being several versions behind and there restore utility auto installing the latest version I was unable to restore from backup and ended up deploying a new server
