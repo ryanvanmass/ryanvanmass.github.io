@@ -18,21 +18,41 @@ The reason I choose Jekyll over going back to Hugo is simply do to falling in lo
 ## Setting up Jekyll
 **Note:** These Steps will be specific to setting up the theme and deployment method I use
 ### Video Guide
-
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8iOU1ci19Q?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Written Guide
-1. Install Ruby
-```bash
+#### Linux
+__Install Ruby__
 
+``` bash
+sudo apt install ruby
 ```
 
-2. Install Jekyll
-```bash
+__Install Jekyll__
 
+``` bash
+gem install bundler jekyll
 ```
 
-3. Copy the Github Template
+__Setup Github repo__
+
+Create a new repository from the [Chirpy Starter](https://github.com/cotes2020/chirpy-starter/generate) and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+
+__Pull down your new Repo and install dependancies__
+
+``` bash
+git clone github.com/GH_USERNAME/GH_USERNAME.github.io
+cd GH_USERNAME.github.io
+bundle install
+```
+__Follow The bellow guide for setting up Github Actions__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8iOU1ci19Q?start=874" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Windows
+1. Download and install a **Ruby+Devkit** version from [RubyInstaller Downloads](https://rubyinstaller.org/downloads/). Use default options for installation.
+2. Run the `ridk install` step on the last stage of the installation wizard. This is needed for installing gems with native extensions. You can find additional information regarding this in the [RubyInstaller Documentation](https://github.com/oneclick/rubyinstaller2#using-the-installer-on-a-target-system). From the options choose `MSYS2 and MINGW development tool chain`.
+3. Open a new command prompt window from the start menu, so that changes to the `PATH` environment variable becomes effective. Install Jekyll and Bundler using `gem install jekyll bundler`
+4. Check if Jekyll has been installed properly: `jekyll -v`
+5. Follow the bellow guide for setting up Github Actions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8iOU1ci19Q?start=874" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

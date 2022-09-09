@@ -1,8 +1,8 @@
 ---
 title: "How to set up SSH on Windows"
-date: 2022-09-8 09:41:44 -04:00
-categories: [Technology]
-tags: []
+date: 2022-09-9 09:00:44 -04:00
+categories: [Technology, "Windows Desktop"]
+tags: [Powershell, Guide, Windows, SSH]
 ---
 ## What is SSH?
 The Secure Shell Protocol or SSH is a cryptographic network protocol for operating network services securely over an unsecured network
