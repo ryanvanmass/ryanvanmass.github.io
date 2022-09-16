@@ -1,6 +1,6 @@
 ---
 title: "Is an IPad the right tool for backing though Europe?"
-date: 2022-07-22 09:41:44 -04:00
+date: 2022-09-16 09:00:00 -04:00
 categories: ["Brain Dump"]
 tags: ["IOS", "Travel"]
 ---
