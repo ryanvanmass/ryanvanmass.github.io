@@ -25,14 +25,11 @@ Roaming Profiles allow you to automatically sync your user directory to a centra
     Essentually You can only be logged into 1 PC at a time which for someone like me who is always logged into there desktop and frequently also using there laptop when not in there office this is not an option
 
 ### Drive Mounting
-
+This is simple but extremely helpful you can auto mount SMB Network shares
 
 ### Theming
-
-
-## Multiple Users for different use cases
-
-
+You can apply a base theme on a per user bases to help expedite the proccess of customizing and personalizing your Workstations.
 
 
 ## SSO for all the things
+Between LDAP and native Active directory authentication options for SSO with other products you will have a hard time finding a enterprise grade application that you wont be able to set up SSO for, additionally with the use of Azure AD sync you can integrate with Microsoft SSO to allow you to utilize the same login credentials for online services as well.
