@@ -46,7 +46,7 @@ Allow you to build a private network on Linode behind a dedicated firewall
 
 ![Image3](/assets/2022/PFSense-On-Linode/Image%203.png)
 
-4. Boot into Rescue Mode with the installed disk mounted to `/dev/sda` and access your Linode via the console
+4. Boot into Rescue Mode with the installation disk mounted to `/dev/sda` and access your Linode via the console
 
 ![Image4](/assets/2022/PFSense-On-Linode/image%204.png)
 
