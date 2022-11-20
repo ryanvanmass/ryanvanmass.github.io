@@ -54,6 +54,34 @@ CREATE TABLE first_table (
 );
 ```
 
+4. Add Data to a table
+
+<u>SQL Statemen</u>
+``` sql
+INSERT INTO first_table (id, first_name, last_name) 
+  VALUES  ("1", "Ryan", "Van Massenhoven"); 
+```
+
+**Tip:** you can find online generators such as [this](https://w3codegenerator.com/generators/sql/insert-query-mysql) to help you create these statements
+
+
+<u>Shell Command</u>
+``` bash
+mysql -u root -p -
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
 ## Datatypes
 ### String Datatypes
 
