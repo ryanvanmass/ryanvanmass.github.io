@@ -48,9 +48,9 @@ Allow you to build a private network on Linode behind a dedicated firewall
 
 4. Boot into Rescue Mode with the installation disk mounted to `/dev/sda` and access your Linode via the console
 
-![Image4](/assets/2022/PFSense-On-Linode/image%204.png)
+![Image4](/assets/2022/PFSense-On-Linode/image%206.png)
 
-![Image5](/assets/2022/PFSense-On-Linode/image%205.png)
+![Image5](/assets/2022/PFSense-On-Linode/image%207.png)
 
 5. Run the bellow command
 ```bash
