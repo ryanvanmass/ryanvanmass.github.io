@@ -6,7 +6,7 @@ tags: []
 ---
 
 ## Background
-For awhile now I have been testing TacticalRMM for a small number of devices that I use and maintain. Well I have been travelling for almost all of August and while away from home TacticalRMM decided to take a dumb and stop working. In this post I will be going over some of the troubleshooting steps I have taken as well as more broadly how I troubleshoot issues such as this
+For awhile now I have been testing TacticalRMM for a small number of devices that I use and maintain. Well I spent most of August and while away from home TacticalRMM decided to take a dumb and stop working. In this post I will be going over some of the troubleshooting steps I have taken as well as more broadly how I troubleshoot issues such as this
 
 ## The Issue
 the backend service/service's responsible for any functionality other then the UI appear to have ceased communicating correctly
