@@ -7,17 +7,12 @@ tags: []
 In this post we will be going over the basics of how to set up an interact with a MySQL Database
 
 ## Instalation
-### Debian
+### Debian/Ubuntu
 ``` bash
-
+sudo apt install mariadb-server
 
 ```
 
-### CentOS Stream 9
-``` bash
-
-
-```
 
 ## Basic Setup
 **Either find or create a video walking user through the `mysql_secure_installation` script**
@@ -67,20 +62,8 @@ INSERT INTO first_table (id, first_name, last_name)
 
 <u>Shell Command</u>
 ``` bash
-mysql -u root -p -
-
-
+mysql -u root -p -e "INSERT INTO first_table (id, first_name, last_name) VALUES  ("1", "Ryan", "Van Massenhoven")"
 ```
-
-
-
-
-
-
-
-
-
-
 
 ## Datatypes
 ### String Datatypes
