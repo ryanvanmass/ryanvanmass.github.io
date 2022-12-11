@@ -1,6 +1,6 @@
 ---
 title: "How to setup Tailscale on PFSense"
-date: 2022-07-22 09:41:44 -04:00
+date: 2022-12-09 09:30:00 -04:00
 categories: [Technology, Networking]
 tags: ["PFSense", "VPN", "Tailscale"]
 ---
