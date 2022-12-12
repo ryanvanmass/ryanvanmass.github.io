@@ -1,16 +1,14 @@
 ---
 title: "MYSQL 101"
 date: 2022-10-31 09:41:44 -04:00
-categories: [Technology]
-tags: []
+categories: [Technology, Development]
+tags: [Linux, Mysql]
 ---
 In this post we will be going over the basics of how to set up an interact with a MySQL Database
 
 ## Instalation
-### Debian/Ubuntu
 ``` bash
 sudo apt install mariadb-server
-
 ```
 
 
