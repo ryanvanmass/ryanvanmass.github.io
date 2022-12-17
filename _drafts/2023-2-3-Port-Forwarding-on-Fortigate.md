@@ -1,6 +1,6 @@
 ---
 title: "Port forwarding on Fortigate"
-date: 2022-12-05 09:41:44 -04:00
+date: 2023-2-03 09:30:00 -04:00
 categories: [Technology, Networking]
 tags: [Networking, fortigate]
 ---
