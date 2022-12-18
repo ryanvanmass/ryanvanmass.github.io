@@ -1,3 +1,5 @@
 FROM ruby:latest
 WORKDIR /website
 RUN gem install bundler jekyll
+RUN bundler install
+RUN bundle exec jekyll serve
