@@ -1,7 +1,7 @@
 ---
 title: "Oh Shit something Broke... Now What?"
-date: 2022-08-27 09:41:44 -04:00
-categories: [Technology]
+date: 2022-12-23 09:30:00 -04:00
+categories: [Technology, "Self Hosted"]
 tags: []
 ---
 
