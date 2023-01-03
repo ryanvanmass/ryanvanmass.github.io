@@ -28,12 +28,15 @@ The Hyper-V Server is Microsofts Windows Server Integrated Virtualization platfo
 DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V
 ```
 
-
-## Hyper-V Quick create 
+## Hyper-V's Key Features
+### Hyper-V Quick create 
 Hyper-V's quick create functionality is likely one of the best features, It allows you to easily and quickly setup up development enviroments in both windows and Linux (Ubuntu) in just a couple of clicks
 
-## Windows 11 Sandbox
+### Windows 11 Sandbox
 While Windows 11 sandbox isn't explicitly speaking Hyper-V it does use hyper-v's underlting hypervisor to virtualized a temporary sandbox environment for you to be able to do shorter and even quicker testing
+
+### WSL2
+The Windows Subsystem for Linux version 2 utilizes the Hyper-V architecture (Hypervisor) to allow the virtualization required to allow you to run the Linux kernel on your windows host
 
 
 ## A System Admins Perspective
@@ -41,4 +44,5 @@ As a system admin in 2023 I would not want to have my entire virtualized infrast
 
 
 ## Final Thoughts
-Honestly while I wouldnt suggest replacing products such as VMware Workstation Pro with Hyper-V if you have nothing better It will get the job done in a pinch. Additionally Microsoft has been adding additional functioanlity to the Hyper-V hypervisor such as the Windows 11 sandbox and WSL2/WSL2G which can allow system admins to get additional functionality.
+
+While I wouldnt suggest replacing products such as VMware Workstation Pro or ESXI with Hyper-V if you have nothing better It will get the job done in a pinch. Additionally Microsoft has been adding additional functioanlity to the Hyper-V hypervisor such as the Windows 11 sandbox and WSL2/WSL2G which can allow system admins to get additional functionality.
