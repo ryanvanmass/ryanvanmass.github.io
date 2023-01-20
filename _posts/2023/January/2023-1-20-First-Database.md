@@ -1,6 +1,6 @@
 ---
 title: "MYSQL 101"
-date: 2022-10-31 09:41:44 -04:00
+date: 2023-1-20 09:30:00 -04:00
 categories: [Technology, Development]
 tags: [Linux, Mysql]
 ---
