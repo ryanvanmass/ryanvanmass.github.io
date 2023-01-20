@@ -2,7 +2,7 @@
 title: "Port forwarding on Fortigate"
 date: 2023-2-03 09:30:00 -04:00
 categories: [Technology, Networking]
-tags: [Networking, fortigate, NAT]
+tags: [Networking, Fortigate, NAT]
 ---
 ## Create the NAT Rule
 1. Login to the firewall and Navigate to Policy & Objects > Virtual IPs

@@ -1,6 +1,6 @@
 ---
 title: "Why you may want to run Active Directory in your homelab"
-date: 2022-09-29 09:30:00 -04:00
+date: 2023-01-06 09:30:00 -04:00
 categories: [Technology, "Self Hosted"]
 tags: ["Windows", "Active Directory"]
 ---
