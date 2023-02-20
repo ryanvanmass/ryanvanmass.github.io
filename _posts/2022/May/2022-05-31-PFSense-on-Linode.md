@@ -59,7 +59,7 @@ Allow you to build a private network on Linode behind a dedicated firewall
 5. Run the bellow command
 ```bash
 # Download and Format Install Media
-curl http://edmi.vanmassenhoven.com/index.php/s/qoqoFKEEjPHya76/download/pfSense-CE-memstick-serial-2.6.0-RELEASE-amd64.img | dd of=/dev/sda
+curl http://edmi.app/index.php/s/W79Wj3Q9zR4PWiK/download/pfSense-CE-memstick-serial-2.6.0-RELEASE-amd64.img | dd of=/dev/sda
 ```
 
 6. When the command finishes, reboot into your Installer Profile
