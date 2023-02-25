@@ -1,5 +1,5 @@
 ---
-title: "How to set up a Site to Site VPN"
+title: "How to set up a Site to Site VPN using OpenVPN"
 date: 2022-06-07 18:42:56 -04:00
 categories:
     - Technology
@@ -9,7 +9,9 @@ tags:
     - Linode
     - VPN
 ---
-## [Video Guide](https://youtu.be/-8xt7LUtYH4)
+## Video Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-8xt7LUtYH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Written Guide
 ### Server
