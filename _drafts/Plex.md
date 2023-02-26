@@ -2,7 +2,7 @@
 title: "Plex Overview"
 date: 2022-12-05 09:41:44 -04:00
 categories: [Technology]
-tags: [Plex]
+tags: [Plex, "Self Hosted"]
 ---
 ## What is Plex?
 Plex is a self hosted media steaming service that allows you to easily stream your TV shows and Movies.
@@ -26,7 +26,7 @@ While I am all for Paying for software that you use I did find it a little annoy
 ### My workaround
 Due to hosting my own Full tunnel VPN from my firewall I was able to get around this limitation due to appearing to always being on my local network. To be clear long term I am still planning on getting  the Plex Pass (Likely the lifetime pass).
 
-## Prologue
+### Prologue
 While Prologue is not a native plex app you would never be able to tell. It allows you to seamlessly listen to any audiobooks you have on your Plex server. If you are used to using Audibles mobile app you will feel right at home honestly the styles of both apps are identical. 
 
 The only issue I have run into is that sometimes I have to completely close the app (stop it from running in the backgroud) and relaunch the app to allow for playback to resume. i suspect this is something to do with jumping between being on my LAN and utilizing the Proxy Servers that Plex maintains
