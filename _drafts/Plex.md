@@ -14,3 +14,8 @@ Plex is a self hosted media steaming service that allows you to easily stream yo
 
 ## My Thoughts
 So I have been using Plex for around a month now and honestly its been great while I use android boxes to stream the majority of my TV it does allow me to easily watch some of my favourite shows when I am on the going on my phone and IPad
+
+
+## No auto update system
+
+You have to manually download them new executable and run the installer
