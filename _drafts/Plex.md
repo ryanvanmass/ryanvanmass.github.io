@@ -30,3 +30,6 @@ Due to hosting my own Full tunnel VPN from my firewall I was able to get around 
 While Prologue is not a native plex app you would never be able to tell. It allows you to seamlessly listen to any audiobooks you have on your Plex server. If you are used to using Audibles mobile app you will feel right at home honestly the styles of both apps are identical. 
 
 The only issue I have run into is that sometimes I have to completely close the app (stop it from running in the backgroud) and relaunch the app to allow for playback to resume. i suspect this is something to do with jumping between being on my LAN and utilizing the Proxy Servers that Plex maintains
+
+## Closing Thoughts
+In closing if you have any kind of local Media collection be it audio or video I would suggest atleast taking a look at Plex. It is super easy to get up and running and relatively easy to
