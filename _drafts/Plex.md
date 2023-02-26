@@ -13,9 +13,20 @@ Plex is a self hosted media steaming service that allows you to easily stream yo
 **Editors Note:** I recommend running Plex Server on Linux due to the extreme likelihood that you will have fewer issued with the underlying operating system
 
 ## My Thoughts
-So I have been using Plex for around a month now and honestly its been great while I use android boxes to stream the majority of my TV it does allow me to easily watch some of my favourite shows when I am on the going on my phone and IPad
+So I have been using Plex for awhile now and honestly its been great while I use android boxes to stream the majority of my TV when I am at home, Plex allows me to have that same ability when I am away from home and dont have a TV readily available. I have found that I primarily use Plex on my IPad since it has the larges screen out of the devices that I care excluding my laptop.
 
 
-## No auto update system
+### No auto update system
 
-You have to manually download them new executable and run the installer
+I found it unusual that the Plex Team opted to force you to redownload the installer everytime there is a software update instead of builiding in some soft of update system for the software package like most server softwares
+
+### Plex Pass
+While I am all for Paying for software that you use I did find it a little annoying that while testing Plex I was limitted to 720P without a plex pass when i Was not at home. I understand the limitation is likely to prevent people from just using the service for free forever and pushing them towards to the Plex pass which is likely to cover there hosting costs for the proxy servers they definitly use to make accessing your media from anywhere a seamless experiance. (Which does work reallty well). But come on atleast offer a short free trial 
+
+### My workaround
+Due to hosting my own Full tunnel VPN from my firewall I was able to get around this limitation due to appearing to always being on my local network. To be clear long term I am still planning on getting  the Plex Pass (Likely the lifetime pass).
+
+## Prologue
+While Prologue is not a native plex app you would never be able to tell. It allows you to seamlessly listen to any audiobooks you have on your Plex server. If you are used to using Audibles mobile app you will feel right at home honestly the styles of both apps are identical. 
+
+The only issue I have run into is that sometimes I have to completely close the app (stop it from running in the backgroud) and relaunch the app to allow for playback to resume. i suspect this is something to do with jumping between being on my LAN and utilizing the Proxy Servers that Plex maintains
