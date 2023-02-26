@@ -1,6 +1,6 @@
 ---
 title: "How to Configure a Site to Site VPN from Fortigate to PFSense"
-date: 2022-3-17 09:30:00 -04:00
+date: 2022-2-25 09:30:00 -04:00
 categories: [Technology, Networking]
 tags: [Fortigate, PFSense, VPN]
 credit: "https://getlabsdone.com/how-to-configure-ipsec-site-to-site-vpn-between-fortigate-and-pfsense/Fortigate/"
@@ -81,6 +81,51 @@ Name the Tunnel your prefered name and select Custom
 
 
 ### Security Policy
+
+1. Configure a Policy to allow traffic from LAN to our IPSec Tunnel
+    
+    a) Incoming Interface: LAN Network Interface
+    
+    b) Outgoing Interface: Our IPSec Tunnel
+
+    C) Source: All
+
+    d) Destination: All
+
+    e) Services: All
+
+    f) Action: ACCEPT
+
+    g) Disable NAT
+
+![LAN-Rule](/assets/2023/IPSec-from-fortigate-to-pfsense/Fortigate/stepS1.png)
+
+2. Configure a policyt to allow traffic coming from our IPSec tunnel to our LAN
+
+    **NOTE:** This must be a seporate policy and cannot be combined with our first Policy
+
+    a) Incoming Interface: our IPSec Tunnel
+
+    b) Outgoing Interface: Our LAN Network Interface
+
+    C) Source: All
+
+    d) Destination: All
+
+    e) Services: All
+
+    f) Action: ACCEPT
+
+    g) Disable NAT    
+
+![VPN-RuleA](/assets/2023/IPSec-from-fortigate-to-pfsense/Fortigate/stepS2a.png)
+
+![VPN-RuleB](/assets/2023/IPSec-from-fortigate-to-pfsense/Fortigate/stepS2b.png)
+
+### Static Route
+1. Navigate to Network > Routing > Static Routes > Create New
+
+![fortigate-staticroute](/assets/2023/IPSec-from-fortigate-to-pfsense/Fortigate/staticroute.png)
 
 
 
