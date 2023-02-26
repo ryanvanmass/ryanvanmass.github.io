@@ -192,3 +192,10 @@ Name the Tunnel your prefered name and select Custom
 
 ![PFP2LifeTime](/assets/2023/IPSec-from-fortigate-to-pfsense/PFSense/step9.png)
 
+## Security Policy
+If you would like to be able to access everything behind the PFSense Firewall. you will need to create a Default allow any any rule
+
+![PFP2LifeTime](/assets/2023/IPSec-from-fortigate-to-pfsense/PFSense/FirewallRule.png)
+
+## Static Route
+There is No Static Routes Required on the PFSense Firewall
