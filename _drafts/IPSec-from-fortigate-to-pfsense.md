@@ -12,6 +12,7 @@ Today we will be going over how to create a Site to Site VPN between a Fortigate
 ![Topology](/assets/2023/IPSec-from-fortigate-to-pfsense/Fortigate/Topology.png)
 
 ## Fortigate
+### VPN Tunnel
 1. Login to your Fortigate Appliance
 2. Under VPN > IPSec Wizard
 
@@ -78,7 +79,20 @@ Name the Tunnel your prefered name and select Custom
 
 ![phase2-proposal](/assets/2023/IPSec-from-fortigate-to-pfsense/Fortigate/step7.png)
 
+
+### Security Policy
+
+
+
+
+
+
+
+
+
+
 ## PFSense
+### VPN Tunnel
 1. Log into PFSense and naviagte to VPN > IPSec
 2. Select Add P1
 3. Configure the Phase 1 Configuration
@@ -132,3 +146,4 @@ Name the Tunnel your prefered name and select Custom
 9. Configure Life Time
 
 ![PFP2LifeTime](/assets/2023/IPSec-from-fortigate-to-pfsense/PFSense/step9.png)
+
