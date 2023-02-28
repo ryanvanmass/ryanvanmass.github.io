@@ -1,29 +1,29 @@
 ---
 title: "Plex Overview"
 date: 2022-12-05 09:41:44 -04:00
-categories: [Technology]
-tags: [Plex, "Self Hosted"]
+categories: [Technology, "Self Hosted"]
+tags: [Plex, Linux, Media]
 ---
 ## What is Plex?
-Plex is a self hosted media steaming service that allows you to easily stream your TV shows and Movies.
+Plex is a self hosted media steaming service.
 
 ## How to Set Plex up
 [Plex Support Guide](https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/)
 
-**Editors Note:** I recommend running Plex Server on Linux due to the extreme likelihood that you will have fewer issued with the underlying operating system
+**Editors Note:** I recommend running Plex on Linux due to the extreme likelihood that you will have fewer issued with the underlying operating system
 
 ## My Thoughts
-So I have been using Plex for awhile now and honestly its been great while I use android boxes to stream the majority of my TV when I am at home, Plex allows me to have that same ability when I am away from home and dont have a TV readily available. I have found that I primarily use Plex on my IPad since it has the larges screen out of the devices that I care excluding my laptop.
+So I have been using Plex for awhile now and honestly its been great while I use android boxes to stream the majority of my TV when I am at home, Plex allows me to have that same ability when I am away from home and I don't have a TV readily available. I have found that I primarily use Plex on my IPad since it has the larges screen out of the devices that I carry excluding my laptop.
 
 
 ### No auto update system
 
-I found it unusual that the Plex Team opted to force you to redownload the installer everytime there is a software update instead of builiding in some soft of update system for the software package like most server softwares
+I found it unusual that the Plex Team opted to force you to redownload the installer everytime there is a software update instead of builiding in an update system like most server softwares
 
 ### Plex Pass
-While I am all for Paying for software that you use I did find it a little annoying that while testing Plex I was limitted to 720P without a plex pass when i Was not at home. I understand the limitation is likely to prevent people from just using the service for free forever and pushing them towards to the Plex pass which is likely to cover there hosting costs for the proxy servers they definitly use to make accessing your media from anywhere a seamless experiance. (Which does work reallty well). But come on atleast offer a short free trial 
+While I am all for Paying for software that you use I did find it a little annoying that while testing Plex I was limitted to 720P low bitrate without a plex pass when I was not at home. I understand the limitation is likely to prevent people from just using the service for free forever and pushing them towards to the Plex pass which is likely to cover there hosting costs for the proxy servers they definitly use to make accessing your media from anywhere a seamless experiance. (Which does work reallty well). But come on atleast offer a short free trial 
 
-### My workaround
+#### My workaround
 Due to hosting my own Full tunnel VPN from my firewall I was able to get around this limitation due to appearing to always being on my local network. To be clear long term I am still planning on getting  the Plex Pass (Likely the lifetime pass).
 
 ### Prologue
@@ -32,4 +32,4 @@ While Prologue is not a native plex app you would never be able to tell. It allo
 The only issue I have run into is that sometimes I have to completely close the app (stop it from running in the backgroud) and relaunch the app to allow for playback to resume. i suspect this is something to do with jumping between being on my LAN and utilizing the Proxy Servers that Plex maintains
 
 ## Closing Thoughts
-In closing if you have any kind of local Media collection be it audio or video I would suggest atleast taking a look at Plex. It is super easy to get up and running and relatively easy to
+In closing if you have any kind of local Media collection be it audio or video I would suggest atleast taking a look at Plex. It is super easy to get up and running and relatively easy to use
