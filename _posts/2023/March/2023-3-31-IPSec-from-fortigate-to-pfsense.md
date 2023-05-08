@@ -1,6 +1,6 @@
 ---
 title: "How to Configure a Site to Site VPN from Fortigate to PFSense"
-date: 2022-3-31 09:30:00 -04:00
+date: 2023-3-31 09:30:00 -04:00
 categories: [Technology, Networking]
 tags: [Fortigate, PFSense, VPN]
 credit: "https://getlabsdone.com/how-to-configure-ipsec-site-to-site-vpn-between-fortigate-and-pfsense/Fortigate/"

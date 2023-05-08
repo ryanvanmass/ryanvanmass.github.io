@@ -1,6 +1,6 @@
 ---
 title: "LDAP authentication for Active Directory on Fortigate"
-date: 2022-3-17 09:30:00 -04:00
+date: 2023-3-17 09:30:00 -04:00
 categories: [Technology, Networking]
 tags: [Fortigate, LDAP, "Active Directory"]
 ---
