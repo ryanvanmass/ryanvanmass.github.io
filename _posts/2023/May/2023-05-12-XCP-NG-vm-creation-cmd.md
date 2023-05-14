@@ -2,7 +2,7 @@
 title: "How To Create a Virtual Machine on XCP-NG from the Command Line (Bash)"
 date: 2023-05-12 09:41:44 -04:00
 categories: [Technology, "XCP-NG"]
-tags: []
+tags: [XCP-NG, Virtualization, Linux]
 ---
 ## Creating the VM Image
 ### List Templates
