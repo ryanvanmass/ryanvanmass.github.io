@@ -1,6 +1,6 @@
 ---
 title: "How to Renew your Self-Signed Certificate for Windows RDP"
-date: 2023-05-12 09:41:44 -04:00
+date: 2023-05-26 09:30:00 -04:00
 categories: [Technology, "Windows Desktop"]
 tags: [Windows, Certificate, "Remote Desktop"]
 ---
