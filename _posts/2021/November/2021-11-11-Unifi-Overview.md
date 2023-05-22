@@ -5,7 +5,6 @@ categories:
     - Technology
     - Networking
 tags:
-    - Tailscale
     - VPN
     - First Look
 ---
