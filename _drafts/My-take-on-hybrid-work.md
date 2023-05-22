@@ -11,3 +11,4 @@ One of the main reason I believe that it will work well for companies is it allo
 
 ## The Disadvantages
 While many companies are imbracing the transition to the cloud it has left a gap for IT professionals in how we manage security for both data storage as well as remotely accessing company resources.
+
