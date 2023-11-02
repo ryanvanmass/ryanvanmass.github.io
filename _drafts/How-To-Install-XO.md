@@ -15,6 +15,12 @@ For those who may be unaware Xen Orchestra (XO) is the management interface for 
 ```bash
 sh xo-vm-import.sh
 ```
+4. Navigate to `https://ip-of-vm`
+5. Login with the below credentials
+    
+    Username: `admin@admin.net`
+    
+    Password: `admin`
 
 ### Configuring a Virtual Machine from scratch
 1. Create either a Ubuntu/Debian or Rhel based Virtual Machine
@@ -24,3 +30,9 @@ sh xo-vm-import.sh
 ```bash
 sh xo-install.sh
 ```
+5. Navigate to `https://ip-of-vm`
+6. Login with the below credentials
+    
+    Username: `admin@admin.net`
+    
+    Password: `admin`
