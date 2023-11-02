@@ -1,8 +1,8 @@
 ---
 title: "How to Install Xen Orchestra"
-date: 2023-5-21 09:41:44 -04:00
-categories: [Technology]
-tags: []
+date: 2023-1-2 09:30:00 -04:00
+categories: [Technology,XCP-NG]
+tags: [XO,Xen,Hyervisor]
 ---
 ## Background
 For those who may be unaware Xen Orchestra (XO) is the management interface for managing multiple XCP-NG Servers, It operates in a very similar fashion to VSphere with ESXI
