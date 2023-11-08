@@ -3,7 +3,7 @@ title: "Tablet Workflow 3 Months later"
 date: 2021-06-10 20:28:23 -04:00
 draft: false
 categories:
-    - Technology
+    - On-Premise
     - IOS
 tags:
     - IOS

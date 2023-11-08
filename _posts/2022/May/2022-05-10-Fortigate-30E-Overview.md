@@ -2,7 +2,7 @@
 title: "Why the Fortigate 30E is great for your homelab"
 date: 2022-05-10 18:42:56 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Networking
 tags:
     - Firewall

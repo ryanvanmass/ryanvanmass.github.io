@@ -1,7 +1,7 @@
 ---
 title: "Making Windows Setup Easy"
 date: 2022-07-20 09:41:44 -04:00
-categories: [Technology, "Windows Desktop"]
+categories: [On-Premise, "Windows Desktop"]
 tags: [Windows, Chocolatey, Powershell, "Tactical RMM"]
 ---
 ## Tools

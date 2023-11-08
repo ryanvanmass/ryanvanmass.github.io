@@ -2,7 +2,7 @@
 title: "Transitioning to a Tablet Workflow"
 date: 2021-02-25 10:34:16 -05:00
 categories:
-    - Technology
+    - On-Premise
     - IOS
 tags:
     - IOS

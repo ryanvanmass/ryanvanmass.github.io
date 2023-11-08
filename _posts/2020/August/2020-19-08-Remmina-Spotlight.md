@@ -3,7 +3,7 @@ title: "Remmina Spotlight"
 date: 2020-08-19 12:00:34 -04:00
 draft: false
 categories:
-    - Technology
+    - On-Premise
     - Linux Desktop
 tags:
     - Spotlight

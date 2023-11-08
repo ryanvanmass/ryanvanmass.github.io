@@ -2,7 +2,7 @@
 title: "Connectwise Control for the Family IT Guy"
 date: 2022-01-21 18:42:56 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Remote Desktop
 tags:
     - Windows

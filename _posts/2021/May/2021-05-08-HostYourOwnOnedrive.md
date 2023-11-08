@@ -2,7 +2,7 @@
 title: "Host Your Own OneDrive"
 date: 2021-05-08 10:43:54 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Storage
 tags:
     - Linux

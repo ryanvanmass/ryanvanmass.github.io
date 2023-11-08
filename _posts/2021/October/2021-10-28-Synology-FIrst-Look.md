@@ -2,7 +2,7 @@
 title: "Synology First Look and Thoughts"
 date: 2021-10-28 18:42:56 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Storage
 tags:
     - NAS

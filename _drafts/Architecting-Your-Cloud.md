@@ -1,7 +1,7 @@
 ---
 title: "Arcitecting your Cloud Deployment"
 date: 2023-6-2 09:41:44 -04:00
-categories: [Technology]
+categories: [On-Premise]
 tags: []
 ---
 # Intro/Overview

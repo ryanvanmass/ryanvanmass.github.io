@@ -2,7 +2,7 @@
 title: "How to Install PFSense on Linode"
 date: 2022-05-31 18:42:56 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Networking
 tags:
     - VPS

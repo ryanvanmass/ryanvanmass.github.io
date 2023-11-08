@@ -2,7 +2,7 @@
 title: "IPad as a Second Monitor"
 date: 2020-07-18 21:58:05 -04:00
 categories:
-    - Technology
+    - On-Premise
     - IOS
 tags:
     - Windows

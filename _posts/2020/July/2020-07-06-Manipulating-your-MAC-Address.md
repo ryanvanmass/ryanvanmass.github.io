@@ -3,7 +3,7 @@ title: "Manipulating Your MAC Address"
 date: 2020-07-06 13:30:05 -04:00
 draft: false
 categories:
-    - Technology
+    - On-Premise
     - Networking
 tags:
     - Linux

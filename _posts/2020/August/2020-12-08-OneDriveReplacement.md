@@ -2,7 +2,7 @@
 title: "Locally Host your own Cloud Storage using Syncthing"
 date: 2020-12-08 8:58:01 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Storage
 tags:
     - Linux
