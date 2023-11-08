@@ -1,7 +1,7 @@
 ---
 title: "ADHD my best friend and my biggest enemy"
 date: 2022-12-05 09:41:44 -04:00
-categories: [Technology]
+categories: [On-Premise]
 tags: []
 ---
 

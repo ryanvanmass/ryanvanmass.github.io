@@ -2,7 +2,7 @@
 title: "Nextcloud Spotlight"
 date: 2021-08-13 21:02:10 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Self Hosted
 tags:
     - Spotlight

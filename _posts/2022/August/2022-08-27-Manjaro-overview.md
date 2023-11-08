@@ -1,7 +1,7 @@
 ---
 title: "Manjaro, What is it and Why Use it?"
 date: 2022-08-27 09:41:44 -04:00
-categories: [Technology]
+categories: [On-Premise]
 tags: ["Linux","Manjaro","Overview"]
 ---
 

@@ -3,7 +3,7 @@ title: "How to Install and Optimize VMware Workstation for Linux"
 date: 2020-08-12 11:04:13 -04:00
 draft: false
 categories:
-    - Technology
+    - On-Premise
 tags:
     - Linux
     - How-Tos

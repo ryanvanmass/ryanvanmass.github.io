@@ -2,7 +2,7 @@
 title: "Winget Overview"
 date: 2022-05-03 18:42:56 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Windows Desktop
 tags:
     - Windows

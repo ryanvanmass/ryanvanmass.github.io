@@ -1,7 +1,7 @@
 ---
 title: "MYSQL 101"
 date: 2023-1-20 09:30:00 -04:00
-categories: [Technology, Development]
+categories: [On-Premise, Development]
 tags: [Linux, Mysql]
 ---
 In this post we will be going over the basics of how to set up an interact with a MySQL Database

@@ -1,7 +1,7 @@
 ---
 title: "How to set up SSH on Windows"
 date: 2022-09-9 09:00:44 -04:00
-categories: [Technology, "Windows Desktop"]
+categories: [On-Premise, "Windows Desktop"]
 tags: [Powershell, Guide, Windows, SSH]
 ---
 ## What is SSH?

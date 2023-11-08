@@ -1,7 +1,7 @@
 ---
 title: "Why you may want to run Active Directory in your homelab"
 date: 2023-01-06 09:30:00 -04:00
-categories: [Technology, "Self Hosted"]
+categories: [On-Premise, "Self Hosted"]
 tags: ["Windows", "Active Directory"]
 ---
 Windows Active Directory is a very powerful Identity and system management set of utilities. In this post I will be exploring some of the core functions and how they may be useful in a homelab environment.

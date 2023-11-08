@@ -1,7 +1,7 @@
 ---
 title: "How to Install Jumpcloud on PopOS"
 date: 2023-2-17 09:30:00 -04:00
-categories: [Technology, "Linux Desktop"]
+categories: [On-Premise, "Linux Desktop"]
 tags: [Jumpcloud, PopOS, Linux]
 ---
 1. Make a backup of `/etc/os-release`

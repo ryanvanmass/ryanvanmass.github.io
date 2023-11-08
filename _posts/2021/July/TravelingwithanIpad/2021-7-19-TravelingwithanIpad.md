@@ -2,7 +2,7 @@
 title: "Traveling without a Laptop"
 date: 2021-07-19 19:14:27 -04:00
 categories:
-    - Technology
+    - On-Premise
     - IOS
 tags:
     - IOS

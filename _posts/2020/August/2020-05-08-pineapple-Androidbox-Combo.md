@@ -2,7 +2,7 @@
 title: "Wifi Pineapple Androidbox Combo"
 date: 2020-08-05 14:00:17 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Pentesting
 tags:
     - How-Tos

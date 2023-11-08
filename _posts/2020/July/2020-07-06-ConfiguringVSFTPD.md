@@ -2,7 +2,7 @@
 title: "Configuring VSFTP"
 date: 2020-07-06 08:24:50 -04:00
 categories:
-    - Technology
+    - On-Premise
     - Storage
 tags:
     - Linux

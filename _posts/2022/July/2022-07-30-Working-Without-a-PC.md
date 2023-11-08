@@ -1,7 +1,7 @@
 ---
 title: "Working without a PC"
 date: 2022-07-30 09:41:44 -04:00
-categories: [Technology, IOS]
+categories: [On-Premise, IOS]
 tags: ["IOS","Overview"]
 ---
 
