@@ -2,8 +2,8 @@
 title: "Linode Overview"
 date: 2022-05-17 18:42:56 -04:00
 categories:
-    - On-Premise
-    - Self Hosted
+    - Cloud
+    - Linode/Akamai
 tags:
     - VPS
     - Linux
