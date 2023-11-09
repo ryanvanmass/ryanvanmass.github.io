@@ -2,7 +2,7 @@
 title: "How To Focus With ADHD"
 date: 2021-06-12 19:30:23 -04:00
 categories:
-    - Brain Dump
+    - Blog
 ---
 
 ## Disclamer

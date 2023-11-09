@@ -2,7 +2,7 @@
 title: "System Failure"
 date: 2020-10-19 11:44:04 -04:00
 categories:
-    - Brain Dump
+    - Blog
 tags:
     - PSA
     - Linux

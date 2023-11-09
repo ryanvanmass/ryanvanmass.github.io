@@ -1,7 +1,7 @@
 ---
 title: "Snap on the Server"
 date: 2023-6-9 09:30:00 -04:00
-categories: ["Brain Dump"]
+categories: ["Blog"]
 tags: [snap, Ubuntu]
 ---
 ## What is Snap?

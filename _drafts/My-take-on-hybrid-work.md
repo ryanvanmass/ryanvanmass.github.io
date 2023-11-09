@@ -1,7 +1,7 @@
 ---
 title: "Will Hybrid Work work in 2023?"
 date: 2023-05-12 09:41:44 -04:00
-categories: ["Brain Dump"]
+categories: ["Blog"]
 tags: []
 ---
 Will Hybrid work work for companies in the long term? Personally I believe that if a company implements it correctly it can work very well. In this post I will be going over why and my thoughts on how company's should implement a Hybrid working environment

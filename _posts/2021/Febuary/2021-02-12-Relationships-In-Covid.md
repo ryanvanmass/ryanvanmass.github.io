@@ -2,7 +2,7 @@
 title: "Relationships in Covid"
 date: 2021-02-12 08:42:40 -05:00
 categories:
-    - Brain Dump
+    - Blog
 ---
 
 ## Background on my story

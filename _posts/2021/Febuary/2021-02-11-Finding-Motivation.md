@@ -2,7 +2,7 @@
 title: "Finding Motivation"
 date: 2021-02-11 11:22:18 -05:00
 categories:
-    - Brain Dump
+    - Blog
 ---
 
 ## Intro

@@ -1,7 +1,7 @@
 ---
 title: "Is an IPad the right tool for backing though Europe?"
 date: 2022-09-16 09:00:00 -04:00
-categories: ["Brain Dump"]
+categories: ["Blog"]
 tags: ["IOS", "Travel"]
 ---
 I recently got married and at the time of writing am about a week into my honeymoon and while I have brought both my IPad and my Laptop I find myself more often than I expected reaching for my IPad. In this post I will be going over some of the reason why I believe that is the case.
