@@ -2,7 +2,7 @@
 title: "Snap on the Server"
 date: 2023-6-9 09:30:00 -04:00
 categories: ["Brain Dump"]
-tags: [snap, ubuntu]
+tags: [snap, Ubuntu]
 ---
 ## What is Snap?
 Snap packages are universal and secure applications that work across different Linux distributions. Essentually Snapd the daemon responsible for managing snap packages creates sandboxed enviroments that allow you to have just the dipendancies for the software you are attempting to run without having to worry about other software on the system requiring newer or older versions of those dipendancies. Additioanlly Snap's offer better security due to not having access to the full file system by default.
