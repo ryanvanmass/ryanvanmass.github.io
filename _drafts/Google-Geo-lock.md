@@ -1,6 +1,6 @@
 ---
 title: "Restrict User Logins to a specific Geographic Region"
-date: 2022-12-05 09:41:44 -04:00
+date: 2023-11-08 09:41:44 -09:30
 categories: [Cloud, "Google Workspace"]
 tags: ["Contact Aware Acccess", "Geolock"]
 ---
