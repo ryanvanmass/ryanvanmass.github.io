@@ -28,5 +28,6 @@ tags: ["Contact Aware Acccess", "Geolock"]
 ![Image7](/assets/2023/Google-Geo-Lock/7.png)
 5. Select Continue
 6. Select `Block users from accessing Google desktop and mobile apps if access levels aren't met`
+![Image8](/assets/2023/Google-Geo-Lock/8.png)
 7. Select Continue
 8. Select Assign
