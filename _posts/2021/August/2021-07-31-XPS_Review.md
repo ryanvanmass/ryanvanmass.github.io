@@ -1,7 +1,7 @@
 ---
 title: "Dell XPS Review"
 date: 2021-07-31 16:10:57 -04:00
-categories: [Brain Dump]
+categories: [Blog]
 tags:
     - Linux
     - Dell

@@ -2,7 +2,7 @@
 title: "My Take on Working from Home"
 date: 2020-08-12 14:51:57 -04:00
 categories:
-    - Brain Dump
+    - Blog
 ---
 ## Introduction
 So a little insight for a little over a year now I have been working from home full time and now with Covid-19 I also go to college from home. So it is safe to say that I spend a lot of time in front of my desk at home.

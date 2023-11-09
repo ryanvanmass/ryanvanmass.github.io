@@ -3,7 +3,7 @@ title: "Staying Connected"
 date: 2021-06-04 14:58:32 -04:00
 draft: false
 categories:
-    - Brain Dump
+    - Blog
 tags:
     - Linux
     - Windows
