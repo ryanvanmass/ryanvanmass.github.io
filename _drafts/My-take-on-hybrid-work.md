@@ -30,4 +30,4 @@ While many companies have been embracing the cloud there are some major limitati
     * These platforms due to there nature do not play well together
 
 3. When choosing a VPN to access any on premises infrastructure you may still have choose something modern
-    * At the very minimum I would recommend utilizing an SSL based VPN but honestly with the introduction of the wireguard protocol and its vastly improved efficiency across the board I would recommend looking into a service such as Tailscale
+    * At the very minimum I would recommend utilizing an SSL based VPN but honestly with the introduction of the wireguard protocol and its vastly improved efficiency across the board I would recommend looking into a service such as Tailscale 
