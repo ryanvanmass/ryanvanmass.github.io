@@ -1,7 +1,7 @@
 ---
 title: "Port forwarding on Fortigate"
 date: 2023-2-03 09:30:00 -04:00
-categories: [Networking]]
+categories: [Networking]
 tags: [Networking, Fortigate, NAT]
 ---
 ## Create the NAT Rule
