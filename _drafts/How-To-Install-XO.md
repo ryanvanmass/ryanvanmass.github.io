@@ -1,6 +1,6 @@
 ---
 title: "How to Install Xen Orchestra"
-date: 2023-1-2 09:30:00 -04:00
+date: 2023-12-2 09:30:00 -04:00
 categories: [On-Premise,XCP-NG]
 tags: [XO,Xen,Hyervisor]
 ---
@@ -9,7 +9,7 @@ For those who may be unaware Xen Orchestra (XO) is the management interface for 
 
 ## Install
 ### Importing a preconfigured VM **(Recommended Method)**
-1. On your XCP-NG server clone the [XenOrchestraInstallerUpdater](https://github.com/ronivay/XenOrchestraInstallerUpdater) repo
+1. On your XCP-NG server clone the [XenOrchestraInstallerUpdater](https://github.com/ronivay/XenOrchestraInstallerUpdater) repository
 2. Navigate to that directory
 3. run the below command
 ```bash
