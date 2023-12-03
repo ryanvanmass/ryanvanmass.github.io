@@ -1,7 +1,7 @@
 ---
 title: "How to Allow Chromecast & Nest Device Access Across Multiple VLANs"
 date: 2023-12-2 09:30:00 -04:00
-categories: [Networking]
+categories: [Networking, Routing]
 tags: [VLAN, Chromecast]
 ---
 ## Background
