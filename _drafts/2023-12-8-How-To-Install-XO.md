@@ -1,6 +1,6 @@
 ---
 title: "How to Install Xen Orchestra"
-date: 2023-12-2 09:30:00 -04:00
+date: 2023-12-8 09:30:00 -04:00
 categories: [On-Premise,XCP-NG]
 tags: [XO,Xen,Hyervisor]
 ---
