@@ -3,7 +3,6 @@ title: "Configuring OpenVPN"
 date: 2020-07-06T08:28:20-04:00
 draft: false
 categories:
-    - On-Premise
     - Networking
 tags:
     - Linux

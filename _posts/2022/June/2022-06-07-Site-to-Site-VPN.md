@@ -2,7 +2,6 @@
 title: "How to set up a Site to Site VPN using OpenVPN"
 date: 2022-06-07 18:42:56 -04:00
 categories:
-    - On-Premise
     - Networking
 tags:
     - Firewall
