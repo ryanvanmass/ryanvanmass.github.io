@@ -4,6 +4,7 @@ date: 2020-07-06T08:28:20-04:00
 draft: false
 categories:
     - Networking
+    - VPN
 tags:
     - Linux
     - VPN
