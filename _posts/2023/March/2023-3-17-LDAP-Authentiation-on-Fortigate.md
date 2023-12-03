@@ -1,7 +1,7 @@
 ---
 title: "LDAP authentication for Active Directory on Fortigate"
 date: 2023-3-17 09:30:00 -04:00
-categories: [On-Premise, Networking]
+categories: [Networking, Fortigate]
 tags: [Fortigate, LDAP, "Active Directory"]
 ---
 ## Prerequisets

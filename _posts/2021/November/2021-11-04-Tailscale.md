@@ -2,8 +2,8 @@
 title: "Tailscale Overview"
 date: 2021-11-04 18:42:56 -04:00
 categories:
-    - On-Premise
     - Networking
+    - VPN
 tags:
     - Tailscale
     - VPN

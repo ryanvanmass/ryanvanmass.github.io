@@ -1,7 +1,7 @@
 ---
 title: "The Benifits of Running a Local DNS Server"
 date: 2023-4-14 09:30:00 -04:00
-categories: [On-Premise, Networking]
+categories: [Networking, DNS]
 tags: [DNS]
 ---
 So we all know that we heavily rely on DNS to connect to anything on the internet but why would you want to have your own local DNS server? In this post I am goign to be going over a couple of usecases I actually have for having a few different local DNS servers.

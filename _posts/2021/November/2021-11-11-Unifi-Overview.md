@@ -2,8 +2,8 @@
 title: "Ubiquiti Network Equipment and the Unifi Controller Software"
 date: 2021-11-11 18:42:56 -04:00
 categories:
-    - On-Premise
     - Networking
+    - Unifi
 tags:
     - VPN
     - First Look

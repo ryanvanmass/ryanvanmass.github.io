@@ -1,7 +1,7 @@
 ---
 title: "How to setup Tailscale on PFSense"
 date: 2022-12-09 09:30:00 -04:00
-categories: [On-Premise, Networking]
+categories: [Networking, VPN]
 tags: ["PFSense", "VPN", "Tailscale"]
 ---
 With the recent release of the all new Tailscale Package for PFSense it has made setting up a remote access VPN easier then every. In this post I will be going over how to setup Tailscale on PFSense.
