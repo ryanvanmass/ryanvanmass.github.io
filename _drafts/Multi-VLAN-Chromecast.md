@@ -17,4 +17,6 @@ Chromecast & Nest Devices use multicast Domain Name Services (mDNS) to perform d
 1. Navigate to `Services > Avahi`
 2. Select `Enable the Avahi Daemon`
 3. Select `Repeat mdns Packets across Subnets`
-3. Select Save
+4. Select Save
+
+![1](/assets/2023/Multi-vlan-chromecast/1.png)
