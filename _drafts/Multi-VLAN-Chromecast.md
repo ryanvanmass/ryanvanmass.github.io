@@ -1,8 +1,8 @@
 ---
 title: "How to Allow Chromecast & Nest Access Across Multiple VLANs"
 date: 2023-1-2 09:30:00 -04:00
-categories: [On-Premise,Networking]
-tags: []
+categories: [On-Premise, Networking]
+tags: [pfsense, VLAN, Chromecast]
 ---
 ## Background
 Chromecast & Nest Devices use multicast Domain Name Services (mDNS) to perform device discovery. Unfortunitly do to the nature of mDNS you cannot simply simply add a Routing rule to allow the traffic across the VLAN it must be relayed via a Repeater in order to traverse VLANs. Luckily many routers have a built in mDNS repeater built in or as a add on, in this article we will be going over how to set this up in PFsense.
