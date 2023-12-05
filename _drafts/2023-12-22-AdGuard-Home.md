@@ -1,6 +1,6 @@
 ---
 title: "AdGuard Home Overview"
-date: 2023-12-2 09:30:00 -04:00
+date: 2023-12-22 09:30:00 -04:00
 categories: [Networking, DNS]
 tags: []
 ---
