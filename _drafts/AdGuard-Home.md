@@ -28,3 +28,21 @@ AdGuard Home is a network-wide software for blocking ads & tracking. After you s
 [Source](https://github.com/AdguardTeam/AdGuardHome/blob/master/README.md)
 
 ## Setup
+1. Install Docker and Docker Compose
+```
+sudo apt update
+sudo apt install docker.io docker-compose
+sudo systemctl enable --now docker.socket
+```
+
+2. Download the compose File and run it
+```
+wget https://www.ryanvanmassenhoven.com/assets/2023/AdGuard-Home/docker-compose.yml
+sudo docker-compose up -d
+
+```
+
+3. Configure Resolved
+```
+
+```
