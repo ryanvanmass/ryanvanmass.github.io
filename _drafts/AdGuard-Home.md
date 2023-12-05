@@ -29,20 +29,39 @@ AdGuard Home is a network-wide software for blocking ads & tracking. After you s
 
 ## Setup
 1. Install Docker and Docker Compose
-```
+```bash
 sudo apt update
 sudo apt install docker.io docker-compose
 sudo systemctl enable --now docker.socket
 ```
 
-2. Download the compose File and run it
+2. Deactivate DNSStubListener and update the DNS server address. Create a new file, `/etc/systemd/resolved.conf.d/adguardhome.conf` (creating the `/etc/systemd/resolved.conf.d` directory if needed) and add the following content to it:
+
 ```
+[Resolve]
+DNS=127.0.0.1
+DNSStubListener=no
+```
+Specifying `127.0.0.1` as the DNS server address is necessary because otherwise the nameserver will be `127.0.0.53` which doesn't work without DNSStubListener.
+
+
+3. Activate a new resolv.conf file:
+```bash
+sudo mv /etc/resolv.conf /etc/resolv.conf.backup
+sudo ln -s /run/systemd/resolve/resolv.conf /etc/resolv.conf
+```
+
+4. Stop DNSStubListener:
+```bash
+sudo systemctl restart systemd-resolved
+```
+
+5. Download the compose File and run it
+```bash
 wget https://www.ryanvanmassenhoven.com/assets/2023/AdGuard-Home/docker-compose.yml
 sudo docker-compose up -d
-
 ```
 
-3. Configure Resolved
-```
+6. Follow the Onscreen prompts
 
-```
+7. Once the setup wizard is complete set your DHCP server to use AdGuard as your DNS server
