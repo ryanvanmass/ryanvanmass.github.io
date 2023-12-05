@@ -11,11 +11,11 @@ Enabling Google Workspace's MFA enforcement will remove users ability to disable
 ## Enabling MFA Enforcement
 1. Navigate to [Security Settings](https://admin.google.com/ac/security/2sv?journey=32)
 2. Select enforce and set the New User Enrollement Period
-![Image1](/assets/2023/MFA-Enforcement/image1.png)
+![Image1](/assets/2024/MFA-Enforcement/image1.png)
 3. Select Save
 
 ## Caveats
-* Unfortunitly when you enable this feature it only effects new user logins and not existing sessions. This can be resovle by terminating any existing user session forcing the users that do not have MFA configured to reauthenticate and thus starting a new session ([Download Script](https://www.ryanvanmassenhoven.com/assets/2023/MFA-Enforcement/lockout.ps1))
+* Unfortunitly when you enable this feature it only effects new user logins and not existing sessions. This can be resovle by terminating any existing user session forcing the users that do not have MFA configured to reauthenticate and thus starting a new session ([Download Script](https://www.ryanvanmassenhoven.com/assets/2024/MFA-Enforcement/lockout.ps1))
 ```powershell
  Write-Output "primaryEmail,isEnrolledIn2Sv" >> users.csv
  gam print users is2svenrolled | Select-String False | Out-File users.csv -Append
