@@ -35,4 +35,10 @@ The setting is located under Admin > Plugins > Plugin of your choose > Advanced 
 ### Define Custom plugins
 This can be useful to set up preconfigured script templates that you may just need to adjust 1 or 2 variables for a particular instance of that script
 
-## 
+### Granular User Permissions
+Lets be honest this one is fairly self explanitory
+
+![1](/assets/2024/Cronicle-Overview/1.png)
+
+## Extremely customizable
+due to how the plugin system is implemented it allows cronicle to become very fersitle in what is able to do. A great example of this [Joseph Adams](https://github.com/josephdadams/CroniclePlugins) whos has created a ton of custom plugins to do all sorts of tasks
