@@ -1,8 +1,8 @@
 ---
 title: "Virtaul File Support on Linux for the Nextcloud Desktop Agent"
-date: 2024-1-18 09:41:44 -04:00
+date: 2024-4-26 09:30:00 -04:00
 categories: [On-Premise, Nextcloud]
-tags: []
+tags: [Linux, Windows, "File Sharing"]
 ---
 ## What is Virtual File Support?
 Virtual file support is a feature common to services such as Onedrive or Dropbox where all the files stored on the service cloud storage provider appear in your file system but are never actually downloaded until you open the file. This is done in an effort to save space on your local disk.
