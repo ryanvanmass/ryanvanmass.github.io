@@ -1,8 +1,8 @@
 ---
 title: "Sync Nextcloud Reminders and Calendars on IOS"
-date: 2024-3-24 09:41:44 -04:00
+date: 2024-5-10 09:30:00 -04:00
 categories: [On-Premise, Nextcloud]
-tags: []
+tags: [Linux, "File Sharing", IOS, Calander, Tasks]
 ---
 ## Prep Work
 In order to utilize Nextcloud to Sync Nextcloud Tasks to Reminders and Nextcloud Calendars to Calendars you must be using HTTPs with a valid SSL Certificate. you can learn more about that [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-nextcloud-on-ubuntu-20-04#step-4-securing-the-nextcloud-web-interface-with-ssl).
