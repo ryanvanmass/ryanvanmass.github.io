@@ -1,6 +1,6 @@
 ---
 title: "Will Hybrid Work work in 2024?"
-date: 2023-05-12 09:41:44 -04:00
+date: 2024-05-24 09:30:00 -04:00
 categories: ["Blog"]
 tags: []
 ---
