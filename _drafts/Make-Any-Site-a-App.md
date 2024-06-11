@@ -8,4 +8,4 @@ Have you ever wanted to utilze a webpage in a more native manner through a deskt
 
 ## Setup
 1. Navigate to a web page that you would like to be a desktop app
-2. 
+2. idk
