@@ -8,4 +8,8 @@ Have you ever wanted to utilze a webpage in a more native manner through a deskt
 
 ## Setup
 1. Navigate to a web page that you would like to be a desktop app
-2. idk
+2. Select the 3 Dots in the Top right corner
+3. Select Save and Share
+4. Select Install as a App
+5. Select a App Name
+6. Select Save
