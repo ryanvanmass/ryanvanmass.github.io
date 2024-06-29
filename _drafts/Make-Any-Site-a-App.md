@@ -1,7 +1,7 @@
 ---
-title: "Turn any page into a Electron App"
-date: 2023-5-28 09:41:44 -04:00
-categories: [On-Premise, Chrome]
+title: "Turn any Webpage into a Electron App"
+date: 2024-6-29 09:30:44 -04:00
+categories: [On-Premise]
 tags: []
 ---
 Have you ever wanted to utilze a webpage in a more native manner through a desktop app just to discover that one does not exist? Well Chrome has a little hidden feature that allows you to create custom electron apps out of any web page
