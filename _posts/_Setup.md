@@ -5,7 +5,7 @@ date: 2022-07-04 12:00:00 -500
 ## Docker Development Environmnet
 ```
 docker build -t jekyll ./
-docker run -it -v /home/ryan@rdvm.tech/Github/ryanvanmass.github.io:/mnt -p 4000:4000 --rm jekyll:latest
+docker run -it -v /home/ryan/Dev//ryanvanmass.github.io:/mnt -p 4000:4000 --rm jekyll:latest
 
 
 ```
