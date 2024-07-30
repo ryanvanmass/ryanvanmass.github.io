@@ -1,6 +1,6 @@
 ---
 title: "30 Day Linux Challenge 2024"
-date: 2024-7-29 09:41:44 -04:00
+date: 2024-7-29 09:30:00 -04:00
 categories: [On-Premise, "Linux Desktop"]
 tags: [Linux, KDE]
 ---
