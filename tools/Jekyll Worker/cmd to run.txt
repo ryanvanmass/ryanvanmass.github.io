@@ -1,0 +1,1 @@
+sudo docker run -it --rm -v /tmp/nginx:/target jekyll_build:0.4
