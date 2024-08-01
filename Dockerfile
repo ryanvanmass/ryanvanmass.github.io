@@ -14,5 +14,5 @@ RUN bundle install
 
 WORKDIR /mnt
 
-# ENTRYPOINT [ "bundle", "exec", "jekyll", "serve", "-H", "0.0.0.0", "-P", "4000", "-D" ]
-ENTRYPOINT [ "/bin/bash" ]
+ENTRYPOINT [ "bundle", "exec", "jekyll", "serve", "-H", "0.0.0.0", "-P", "4000", "-D" ]
+# ENTRYPOINT [ "/bin/bash" ]
