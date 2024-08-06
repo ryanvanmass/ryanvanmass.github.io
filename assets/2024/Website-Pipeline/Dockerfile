@@ -17,14 +17,3 @@ RUN mkdir /target
 
 
 ENTRYPOINT [ "sh", "update.sh" ]
-```
-
-**update.sh**
-``` bash
-git clone https://github.com/ryanvanmass/ryanvanmass.github.io /source
-cd /source
-
-bundle exec jekyll build
-
-rm -rf /target/*
-cp -rf _site/* /target
