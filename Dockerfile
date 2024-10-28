@@ -3,7 +3,7 @@ FROM ubuntu:22.04 as build
 RUN apt update
 RUN apt install ruby ruby-dev -y
 RUN apt install make g++ -y
-
+RUN apt install git -y
 
 RUN gem install bundler jekyll
 
