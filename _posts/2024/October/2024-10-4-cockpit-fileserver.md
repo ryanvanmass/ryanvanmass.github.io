@@ -1,5 +1,5 @@
 ---
-title: "Setting Up a FIle Server on Ubuntu with Cockit"
+title: "Setting Up a File Server on Ubuntu with Cockit"
 date: 2024-10-4 09:30:00 -04:00
 categories: [On-Premise, "Self Hosted"]
 tags: [Linux, Cockpit, Samba, Ubuntu]
