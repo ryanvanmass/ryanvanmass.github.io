@@ -27,7 +27,7 @@ Please ensure you are running atleast OPNSense 25.1.1
 2. Add the Tailscale Interface 
 3. Open the interface you just added
 4. Select `Enable Interface`
-5. Add the Desction `Tailscale`
+5. Add the Description `Tailscale`
 6. Select `Save`
 
 ## Firewall Rule Setup
