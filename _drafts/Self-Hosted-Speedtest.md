@@ -7,12 +7,12 @@ tags: []
 Have you ever wanted the ability to know the exact speed from where ever you are to your self hosted apps? Meet LibreSpeed, a selfhosted speedtest webapp.
 ![Image1](/assets/2025/Selfhosted-speedtest/1.png)
 
-## Setup
-1. Install Docker
+## Install Docker
 ```bash
 sudo apt install docker.io docker-compose-v2
 ```
-2. Create a `docker-compose.yml` file and add the below content
+
+## Create a `docker-compose.yml` file and add the below content
 ```dockerfile
   speedtest:
     container_name: speedtest
@@ -33,9 +33,9 @@ sudo apt install docker.io docker-compose-v2
     ports:
       - "81:8080" # webport mapping (host:container)
 ```
-3. Start the Docker Container
+## Start the Docker Container
 ```bash
 sudo docker compose up -d
 ```
 
-4. Enjoy
+## Enjoy
