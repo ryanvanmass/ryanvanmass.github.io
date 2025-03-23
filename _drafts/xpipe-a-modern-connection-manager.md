@@ -1,0 +1,37 @@
+---
+title: "XPipe A Modern Remote Connection Manager"
+date: 2025-3-23 09:30:00 -04:00
+categories: []
+tags: []
+---
+
+## What is XPipe?
+XPipe is a modern multi-connection manager that supports RDP, SSH, and VNC. In addition to SFTP and file management plus Hyper-V, KVM, VMWare Player/Workstation/Fusion,and Proxmox integrations to allow you to manage your existing vms. 
+
+## Key Features
+### Proxmox Integration
+The ability to have a single client where you can both SSH into your VM as well as connect to both the serial console as well as the vnc console is second to none and that is in addition to allowing you to start, stop, restart, and pause vms.
+
+#### VM Management
+Having the ability to quickly and easy manage VM state without having to login to a admin dashboard come in suprisingly handy when developing a new service or prepping for a new deployment or just being able to restart a hung production VM from a app you likely already have open as a system administrator can save valuable moments when there could be a potential mass outage.
+
+![Image1](/assets/2025/xpipe-a-modern-connection-manager/1.png)
+
+#### Console
+Having both the ability to SSH as well as connect to both the VNC and Serial Console when troubleshooting is a feature not often seen in connection managers and again can be invaluable when troubleshooting a issue with a virtual machine
+
+### Docker Inteagtion
+The abilitiy to not only view but conenct but to find available connections, run scritps, browese files, and control the container independent of of the host machine is at first a unual feature to include but in practice when testing or developing new containers have quick and easy access to these features can ease alot of of the stress and tention when it comes to these tasks.
+
+![Image2](/assets/2025/xpipe-a-modern-connection-manager/2.png)
+
+### Git Sync
+The ability to securely and easily sync your config in a modern geo-diverse manner is second to none. the git sync feature allows you to sync your config to any git repo using a variety of authentication methods to allow you to keep the repo private
+
+## Why Do I Like it?
+Aside from the key features I have already meantioned honestly its mostly the fact that it uses modern Windows apps for its integrations such as Windows Terminal instead of the extrememly old conhost commandline. Honestly as best I can tell XPipe is developed by a team that has had to perform common system administrations tasks for a long time and got tired of most connection software honestly just sucking.
+
+## Licensing
+There is a free Community edition that for most casual users will likely fit the bil but for a small amount per year you can get additional features and functionality. You can find full pricing info [here]()
+
+![Image3](/assets/2025/xpipe-a-modern-connection-manager/3.png)
