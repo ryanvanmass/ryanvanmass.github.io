@@ -1,8 +1,8 @@
 ---
 title: "XPipe A Modern Remote Connection Manager"
 date: 2025-3-23 09:30:00 -04:00
-categories: []
-tags: []
+categories: [On-Premise,"Remote Desktop"]
+tags: [RDP,SSH,VNC]
 ---
 
 ## What is XPipe?
