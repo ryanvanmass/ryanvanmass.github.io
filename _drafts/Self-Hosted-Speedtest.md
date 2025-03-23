@@ -14,7 +14,6 @@ sudo apt install docker.io docker-compose-v2
 ```
 
 2. Create a `docker-compose.yml` file and add the below content
-
 ```dockerfile
   speedtest:
     container_name: speedtest
