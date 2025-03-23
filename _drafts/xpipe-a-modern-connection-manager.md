@@ -10,8 +10,6 @@ XPipe is a modern multi-connection manager that supports RDP, SSH, and VNC. In a
 
 ## Key Features
 ### Proxmox Integration
-The ability to have a single client where you can both SSH into your VM as well as connect to both the serial console as well as the vnc console is second to none and that is in addition to allowing you to start, stop, restart, and pause vms.
-
 #### VM Management
 Having the ability to quickly and easy manage VM state without having to login to a admin dashboard come in suprisingly handy when developing a new service or prepping for a new deployment or just being able to restart a hung production VM from a app you likely already have open as a system administrator can save valuable moments when there could be a potential mass outage.
 
