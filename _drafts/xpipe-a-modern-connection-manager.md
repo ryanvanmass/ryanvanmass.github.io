@@ -26,6 +26,9 @@ The abilitiy to not only view but conenct to, find open ports, run scritps, brow
 ### Git Sync
 The ability to securely and easily sync your config in a modern geo-diverse manner is second to none. the git sync feature allows you to sync your config to any git repo using a variety of authentication methods to allow you to keep the repo private and secure
 
+### Tailscale Integration
+The ability to easily integrate with your Tailnet will allow you to reduce the amount of time setting up individual hosts as once the tailscale agent is installed they will simply appear in XPipe
+
 ## Why Do I Like it?
 Aside from the key features I have already meantioned honestly its mostly the fact that it uses modern Windows apps for its integrations such as Windows Terminal instead of the extrememly outdated conhost commandline most connection managers favor. Honestly as best I can tell XPipe is developed by a team that has had to perform common system administrations tasks for a long time and got tired of most connection software honestly just sucking.
 
