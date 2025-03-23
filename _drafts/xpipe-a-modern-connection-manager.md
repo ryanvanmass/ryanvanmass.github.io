@@ -6,7 +6,7 @@ tags: []
 ---
 
 ## What is XPipe?
-XPipe is a modern multi-connection manager that supports RDP, SSH, and VNC. In addition to SFTP and file management plus Hyper-V, KVM, VMWare Player/Workstation/Fusion,and Proxmox integrations to allow you to manage your existing vms. 
+XPipe is a modern multi-connection manager that supports RDP, SSH, and VNC. In addition to SFTP and file management plus Hyper-V, KVM, VMWare Player/Workstation/Fusion,and Proxmox integrations. 
 
 ## Key Features
 ### Proxmox Integration
