@@ -6,9 +6,9 @@ tags: []
 ---
 
 ## Tailscale Install and Setup
-For Instructions on how to install and setup Tailscale please visit our [Setting up Tailscale on OPNSense in 2025](https://ryanvanmassenhoven.com/posts/Setting-up-tailscale-on-OPNSense/) Post
+For Instructions on how to install and setup Tailscale please visit our [Setting up Tailscale on OPNSense in 2025](https://ryanvanmassenhoven.com/posts/Setting-up-tailscale-on-OPNSense/) post
 
-## Configuring subnets on OPNSense
+## Configuring Subnets on OPNSense
 1. Navigate to `VPN > Tailscale > Settings`
 2. Select `Advertised Routes`
 3. Select the Oragne `+` icon
