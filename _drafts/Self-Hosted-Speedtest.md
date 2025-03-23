@@ -12,7 +12,6 @@ Have you ever wanted the ability to know the exact speed from where ever you are
 ```bash
 sudo apt install docker.io docker-compose-v2
 ```
-
 2. Create a `docker-compose.yml` file and add the below content
 ```dockerfile
   speedtest:
