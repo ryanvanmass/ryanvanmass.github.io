@@ -1,6 +1,6 @@
 ---
 title: "Tailscale Subnet Routing on OPNSense"
-date: 2025-3-23 09:30:00 -04:00
+date: 2025-4-25 09:30:00 -04:00
 categories: [Networking, OPNSense]
 tags: [Tailscale, VPN, OPNSense]
 ---
