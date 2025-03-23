@@ -2,7 +2,7 @@
 title: "Self Hosted Speedtest.net"
 date: 2025-3-23 09:30:00 -04:00
 categories: [On-Premise,"Self Hosted"]
-tags: []
+tags: [Speedtest, "Self Hosted", Docker]
 ---
 Have you ever wanted the ability to know the exact speed from where ever you are to your self hosted apps? Meet LibreSpeed, a selfhosted speedtest webapp.
 ![Image1](/assets/2025/Selfhosted-speedtest/1.png)
