@@ -19,7 +19,7 @@ Having the ability to quickly and easy manage VM state without having to login t
 Having both the ability to SSH into a virtual machine as well as connect to both the VNC and Serial Console when troubleshooting is a feature not often seen in connection managers and again can be invaluable when troubleshooting a issue with a virtual machine
 
 ### Docker Inteagtion
-The abilitiy to not only view but conenct but to find available connections, run scritps, browese files, and control the container independent of of the host machine is at first a unual feature to include but in practice when testing or developing new containers have quick and easy access to these features can ease alot of of the stress and tention when it comes to these tasks.
+The abilitiy to not only view but conenct to, find available connections, run scritps, browese files, and control the container independent of of the host machine is at first a unual feature to include but in practice when testing or developing new containers can be invaluable to have quick and easy access to these features.
 
 ![Image2](/assets/2025/xpipe-a-modern-connection-manager/2.png)
 
