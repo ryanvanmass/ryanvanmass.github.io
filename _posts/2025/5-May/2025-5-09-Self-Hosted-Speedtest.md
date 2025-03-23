@@ -1,6 +1,6 @@
 ---
 title: "Self Hosted Speedtest.net"
-date: 2025-3-23 09:30:00 -04:00
+date: 2025-5-09 09:30:00 -04:00
 categories: [On-Premise,"Self Hosted"]
 tags: [Speedtest, "Self Hosted", Docker]
 ---
