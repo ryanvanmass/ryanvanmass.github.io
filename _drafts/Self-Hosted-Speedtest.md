@@ -5,6 +5,7 @@ categories: [On-Premise,"Self Hosted"]
 tags: []
 ---
 Have you ever wanted the ability to know the exact speed from where ever you are to your self hosted apps? Meet LibreSpeed, a selfhosted speedtest webapp.
+![Image1](/assets/2025/Selfhosted-speedtest/1.png)
 
 ## Setup
 1. Install Docker
