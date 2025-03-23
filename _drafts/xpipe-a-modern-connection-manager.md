@@ -19,15 +19,15 @@ Having the ability to quickly and easy manage VM state without having to login t
 Having both the ability to SSH into a virtual machine as well as connect to both the VNC and Serial Console when troubleshooting is a feature not often seen in connection managers and again can be invaluable when troubleshooting a issue with a virtual machine
 
 ### Docker Inteagtion
-The abilitiy to not only view but conenct to, find available connections, run scritps, browese files, and control the container independent of of the host machine is at first a unual feature to include but in practice when testing or developing new containers can be invaluable to have quick and easy access to these features.
+The abilitiy to not only view but conenct to, find open ports, run scritps, browese files, and control the container independent of of the host machine is at first a unual feature to include but in practice when testing or developing new containers can be invaluable to have quick and easy access to these features.
 
 ![Image2](/assets/2025/xpipe-a-modern-connection-manager/2.png)
 
 ### Git Sync
-The ability to securely and easily sync your config in a modern geo-diverse manner is second to none. the git sync feature allows you to sync your config to any git repo using a variety of authentication methods to allow you to keep the repo private
+The ability to securely and easily sync your config in a modern geo-diverse manner is second to none. the git sync feature allows you to sync your config to any git repo using a variety of authentication methods to allow you to keep the repo private and secure
 
 ## Why Do I Like it?
-Aside from the key features I have already meantioned honestly its mostly the fact that it uses modern Windows apps for its integrations such as Windows Terminal instead of the extrememly old conhost commandline. Honestly as best I can tell XPipe is developed by a team that has had to perform common system administrations tasks for a long time and got tired of most connection software honestly just sucking.
+Aside from the key features I have already meantioned honestly its mostly the fact that it uses modern Windows apps for its integrations such as Windows Terminal instead of the extrememly outdated conhost commandline most connection managers favor. Honestly as best I can tell XPipe is developed by a team that has had to perform common system administrations tasks for a long time and got tired of most connection software honestly just sucking.
 
 ## Licensing
 There is a free Community edition that for most casual users will likely fit the bil but for a small amount per year you can get additional features and functionality. You can find full pricing info [here]()
