@@ -1,8 +1,8 @@
 ---
 title: "Setting up a Site to Site VPN on OPNsense using Tailscale"
 date: 2025-5-23 09:30:00 -04:00
-categories: [On-Premise,Nextcloud]
-tags: ["Nextcloud", Linux,]
+categories: [Networking,OPNSense]
+tags: [OPNSense, Tailscale, VPN]
 ---
 
 ## Preporation
