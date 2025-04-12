@@ -6,7 +6,7 @@ tags: ["Nextcloud", Linux,]
 ---
 
 ## Preporation
-In preporation for following the steps in this guide it is assumed that tailscale is installed on opnsense using the plugin ([setup guide](https://ryanvanmassenhoven.com/posts/Setting-up-tailscale-on-OPNSense/)) and that your remote site has a subnet router setup advertising a route to tailscale
+In preporation for following the steps in this guide it is assumed that tailscale is installed on OPNsense using the plugin ([setup guide](https://ryanvanmassenhoven.com/posts/Setting-up-tailscale-on-OPNSense/)) and that your remote site has a subnet router setup advertising a route to tailscale
 
 ## Setup
 ### Tailscale
@@ -29,7 +29,7 @@ In preporation for following the steps in this guide it is assumed that tailscal
 10. Select `Apply`
 
 ## Fix Mobile Remote Access
-due to disabling Source NAT within Tailscale we need to configure a route so that our LAN hosts know how to reach any remote workstations of phones
+due to disabling Source NAT within Tailscale we need to configure a route so that our LAN hosts know how to reach any remote workstations or phones via Tailscale
 1. Navigate to `Services > ISC DHCPv4 > LAN`
 2. Locate `Additional Options` and Select `Advanced`
 3. Enter `121` under Number
