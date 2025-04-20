@@ -35,6 +35,7 @@ network:
   <bridge name="br0"/>
 </network>
 ```
+
 4. Run `sudo virsh net-define host-bridge.xml` to create the KVM Bridge Interface
 5. Run `virsh net-start host-bridge` to start the interface
 6. Run `virsh net-autostart host-bridge` to enable the interface to run at start
