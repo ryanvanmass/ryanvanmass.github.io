@@ -28,7 +28,7 @@ network:
 
 2. Run `sudo netplan apply` to apply the network changes you just made
 3. create `host-bridge.xml`
-```xml
+``` xml
 <network>
   <name>host-bridge</name>
   <forward mode="bridge"/>
