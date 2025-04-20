@@ -29,11 +29,11 @@ network:
 2. Run `sudo netplan apply` to apply the network changes you just made
 3. create `host-bridge.xml`
 ``` xml
-<network>
-  <name>host-bridge</name>
-  <forward mode="bridge"/>
-  <bridge name="br0"/>
-</network>
+    <network>
+      <name>host-bridge</name>
+      <forward mode="bridge"/>
+      <bridge name="br0"/>
+    </network>
 ```
 
 4. Run `sudo virsh net-define host-bridge.xml` to create the KVM Bridge Interface
