@@ -1,6 +1,6 @@
 ---
 title: "Setting up Bridge Interfaces for KVM"
-date: 2025-4-20 09:30:00 -04:00
+date: 2025-6-06 09:30:00 -04:00
 categories: [On-Premise, KVM]
 tags: [KVM, Networking, Bridge]
 source: https://ostechnix.com/install-and-configure-kvm-in-ubuntu-20-04-headless-server/
