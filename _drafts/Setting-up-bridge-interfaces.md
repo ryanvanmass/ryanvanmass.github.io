@@ -3,6 +3,7 @@ title: "Setting up Bridge Interfaces for KVM"
 date: 2025-4-20 09:30:00 -04:00
 categories: [On-Premise, ]
 tags: []
+source: https://ostechnix.com/install-and-configure-kvm-in-ubuntu-20-04-headless-server/
 ---
 1. Update your `/etc/netplan/00-installer-config.yaml` file based on the below template
 ``` yml
