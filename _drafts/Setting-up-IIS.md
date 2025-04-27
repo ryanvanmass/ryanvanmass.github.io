@@ -11,3 +11,4 @@ tags: ["Windows Server", Web, IIS]
 5. Select `Add Features`
 6. Select `Next` keeping all settings default until you reach the Confirmation Page
 7. Select `Install`
+8. Once install is complete Select `Close`
