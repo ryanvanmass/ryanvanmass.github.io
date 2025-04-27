@@ -10,6 +10,6 @@ Please follow the steps outlined in our [Setting up IIS on Windows Server 2025](
 
 ## Installing MySQL
 Run the below command in a Admin Powershell prompt to install MYSQL Server and MYSQL Workbench
-```CMD
+```shell
 winget install oracle.mysql oracle.mysqlworkbench
 ```
