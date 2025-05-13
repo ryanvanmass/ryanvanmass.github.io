@@ -1,6 +1,6 @@
 ---
-title: Setting Up Zabbix on Ubuntu 24.04 
-date: 2025-5-4 09:30:00 -04:00 
+title: Setting Up Zabbix on Ubuntu 24.04
+date: 2025-7-4 09:30:00 -04:00
 categories: [On-Premise, Zabbix]
 tags: [Zabbix, Linux, Ubuntu, Monitoring]
 ---
