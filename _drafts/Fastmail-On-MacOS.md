@@ -1,6 +1,6 @@
 ---
 title: "How to Setup Fastmail on MacOS"
-date: 2025-6-08 09:30:00 -04:00
+date: 2025-6-07 09:30:00 -04:00
 categories: [On-Premise, MacOS]
 tags: [MacOS, Fastmail]
 ---
