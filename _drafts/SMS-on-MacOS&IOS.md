@@ -1,0 +1,9 @@
+---
+title: "SMS on MacOS and IOS"
+date: 2025-3-08 09:30:00 -04:00
+categories: []
+tags: []
+---
+1. On your IPhone Launch `Settings`
+2. Navigate to `Apps > Messages> Text Message Forwarding`
+3. Select the devices you would like SMS messages to appear on
