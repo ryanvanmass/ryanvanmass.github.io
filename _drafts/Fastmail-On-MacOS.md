@@ -1,8 +1,8 @@
 ---
 title: "How to Setup Fastmail on MacOS"
 date: 2025-6-08 09:30:00 -04:00
-categories: []
-tags: []
+categories: [On-Premise, MacOS]
+tags: [MacOS, Fastmail]
 ---
 1. Login to [Fastmail Web Portal](https://app.fastmail.com/login/)
 2. Navigate to [Settings > Privacy & Security](https://app.fastmail.com/settings/preferences)
